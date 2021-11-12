@@ -1,0 +1,83 @@
+{
+    "title": "busctel '20",
+    "program": [
+      {
+        "date":"February 23",
+        "location":"İbrahim Bodur Auditorium, Natuk Birkan Building, South Campus, Boğaziçi University, Bebek, 34342",
+        "schedule":[
+          {
+            "time":"10:00",
+            "title":"Invited Talk",
+            "speaker":"Emrah Görgülü"
+          },
+          {
+            "time":"11:00",
+            "title":"Coffee Break"
+          },
+          {
+            "time":"11:15-12:45",
+            "title":"First Session",
+            "chair":"TBA"
+          },
+          {
+            "time":"11:15",
+            "title":"Islıksı bir dil olan Kuş Dili",
+            "speaker":"Kenan Akten"
+          },
+          {
+            "time":"11:45",
+            "title":"Türkçe Anadili konuşurlarının Türkçe Hece Yapılarına İlişkin Farkındalıklarının Belirlenmesi",
+            "speaker":"Onurcan Cengizhan, Melike Sönmez"
+          },
+          {
+            "time":"12:15",
+            "title":"Lunch"
+          },
+          {
+            "time":"13:30",
+            "title":"Workshop on Aggregating Experiment Data in R"
+          },
+          {
+            "time":"15:30-17:00",
+            "title":"Second Session",
+            "chair":"TBA"
+          },
+          {
+            "time":"15:30",
+            "title":"An Investigation of morphosyntactic case interference and prosodic phrase lengths in Turkish center-embeddings",
+            "speaker":"Özge Bakay"
+          },
+          {
+            "time":"16:00",
+            "title":"A Proposition for Typology of Modality Markers in Sign Languages",
+            "speaker":"Maharrem Ayar"
+          },
+          {
+            "time":"16:30",
+            "title":"(A)symmetrical superiority in Russian multiple wh-questions: quantitative study",
+            "speaker":"Kseniia Studenikina"
+          },
+          {
+            "time":"17:00",
+            "title":"Closing Remarks"
+          },
+          {
+            "time":"19:00",
+            "title":"Social Get-Together"
+          }
+          ]
+      }         
+    ],
+    "posters": [
+      {
+        "title":"Manual Construction of Hypernym Relations in Turkish WordNet KeNet",
+        "speaker":"Elif Sarmış, Özge Bakay, Bilge Nas Arıcan, Olcay Taner Yıldız",
+        "aff":"Boğaziçi University, Starlang Software, Işık University"
+      },
+      {
+        "title":"Manual Construction of Hypernym Relations in Turkish WordNet KeNet",
+        "speaker":"Elif Sarmış, Özge Bakay, Bilge Nas Arıcan, Olcay Taner Yıldız",
+        "aff":"Boğaziçi University, Starlang Software, Işık University"
+      }
+    ]
+  }

@@ -16,6 +16,8 @@
   },
   "devDependencies": {
     "chromedriver": "^91.0.1",
-    "nightwatch": "^1.7.6"
+    "nightwatch": "^1.7.6",
+    "sass": "^1.43.4",
+    "sass-loader": "10"
   }
 }
