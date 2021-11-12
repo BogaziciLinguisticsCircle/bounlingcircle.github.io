@@ -47,3 +47,6 @@ jobs:
 
       - name: Build Project
         run: yarn generate
+
+      - name: Deploy Project
+        run: yarn deploy
