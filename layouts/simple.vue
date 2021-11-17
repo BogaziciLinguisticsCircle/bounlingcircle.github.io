@@ -1,9 +1,10 @@
 <template>
   <section>
-    <aside>
-      <h2>Boğaziçi University</h2>
-      <h3>Lingustistics Circle</h3>
-    </aside>
+  	<header> 
+  		<NuxtLink to="/">
+  			Home
+  		</NuxtLink>
+  	</header>
     <main>
       <Nuxt />
     </main>
@@ -29,17 +30,25 @@ html, body {
 }
 section {
   display: flex;
+  flex-flow: row wrap;
   justify-content: center;
   align-items: center;
   height: 100vh;
   & > * {
     padding: 1em;
   }
-  aside {
-  }
   main {
     flex-shrink: 1;
   }
+}
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 1em;
+  text-align: center;
+  font-weight: bolder;
 }
 footer {
   position: absolute;
@@ -49,5 +58,14 @@ footer {
   padding: 1em;
   font-size: .75em;
   text-align: right;
+}
+.nuxt-content {
+  table {
+    width: 100%;
+    text-align: left;
+    thead {
+      border-bottom: 1px solid darkgray;
+    }
+  }
 }
 </style>
