@@ -1,26 +1,25 @@
 <template>
 <div class="menu">
-	<template v-for="(page, p) in pages">
-		<NuxtLink :to="`/${page.slug}`" :key="`menu-item-${p}`" v-text="page.title" />
-	</template>
+	<NuxtLink to="/">Home</NuxtLink>
+	<NuxtLink to="/events">Events</NuxtLink>
+	<NuxtLink to="/posts">Posts</NuxtLink>
 </div>
 </template>
 
 <script>
 export default {
-	name: "Menu",
-	props: ['pages'],
-	mounted () {
-		console.log(this.$router)
-	}
+	name: "Menu"
 }
 </script>
 
 <style lang="scss">
 .menu {
 	display: flex;
-	position: absolute;
-	top: 1em;
+	// justify-content: center;
+	// position: absolute;
+	// top: 1em;
+	width: 100%;
+	margin-left: -.5em;
 	& > * {
 		margin-right: .1em;
 		padding: 0 .5em;

@@ -3,9 +3,12 @@
     <aside>
       <h2>Boğaziçi University</h2>
       <h3>Lingustistics Circle</h3>
+      <Menu />
     </aside>
     <main>
-      <Nuxt />
+      <transition name="fade">
+        <Nuxt />
+      </transition>
     </main>
     <footer>
       Made by Yankı Ekin Yüksel
@@ -14,9 +17,11 @@
 </template>
 
 <script type="text/javascript">
-  export default {
-    name: "DefaultLayout"
-  }
+import Menu from '~/components/Menu.vue'
+export default {
+  name: "DefaultLayout",
+  components: { Menu }
+}
 </script>
 
 <style lang="scss">
@@ -52,7 +57,26 @@ footer {
 }
 .nuxt-content {
   p {
-    white-space: break-spaces;
+    white-space: break-spaces !important;
   }
 }
+ul {
+  padding-left: 1em;
+  li {
+    a {
+      text-decoration: none;
+      color: black;
+    }
+  }
+}
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 1s;
+}
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+
 </style>

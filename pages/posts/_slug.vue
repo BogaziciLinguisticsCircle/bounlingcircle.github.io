@@ -10,7 +10,6 @@ export default {
 		const post = await $content('posts', params.slug).fetch()
 		return { post }
 	},
-	layout: 'simple',
 	name: 'PostPage'
 }
 </script>

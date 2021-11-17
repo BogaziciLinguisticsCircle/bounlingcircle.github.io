@@ -10,7 +10,6 @@ export default {
 		const event = await $content('events', params.slug).fetch()
 		return { event }
 	},
-	layout: 'simple',
 	name: "EventPage"
 }
 </script>

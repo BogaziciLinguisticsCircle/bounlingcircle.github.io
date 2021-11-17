@@ -1,9 +1,7 @@
 ---
-title: BUSCTEL '20
+title: BUSCTEL '21
 description: A test linguistics event
-date: 2020-02-12T09:00:00.000Z
-img: busctel-20
-alt: the first bounling event
+date: 2021-02-12T09:00:00.000Z
 ---
 
 # busctel '20
