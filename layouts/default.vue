@@ -50,4 +50,9 @@ footer {
   font-size: .75em;
   text-align: right;
 }
+.nuxt-content {
+  p {
+    white-space: break-spaces;
+  }
+}
 </style>

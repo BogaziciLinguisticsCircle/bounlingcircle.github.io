@@ -1,7 +1,7 @@
 <template>
   <section>
   	<header> 
-  		<NuxtLink to="/">
+  		<NuxtLink to="/index">
   			Home
   		</NuxtLink>
   	</header>

@@ -1,13 +1,12 @@
 ---
-title: Home
-description: This is the home page.
+title: Sample
+description: This is a sample page!
 img: img.png
 alt: my first page
-order: 0
-slug: ''
+order: 1
 ---
 
-### Change me, change me 
+# A Page to rule them all
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -16,6 +15,3 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-| Hello	| World	|
-| ---	| ---	|
-| X 	| Y 	|
