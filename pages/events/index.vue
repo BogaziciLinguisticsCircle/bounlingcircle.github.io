@@ -1,14 +1,6 @@
 <template>
 <div class="event-page">
 	<NuxtContent :document="doc" />
-	<h3>List of all events</h3>
-	<ul>
-		<template v-for="(event, e) in events.filter(e => !!e.date && e.path)">
-			<li :key="`event-${i}`">
-				<NuxtLink :to="event.path" v-text="event.title" />
-			</li>
-		</template>
-	</ul>
 </div>
 </template>
 

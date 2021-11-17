@@ -1,15 +1,6 @@
 <template>
 <div class="post-page">
 	<NuxtContent :document="doc" />
-	<h3>List of all posts</h3>
-	<ul>
-		<template v-for="(post, e) in posts.filter(post => post.isIndex !== true && post.path)">
-			<li :key="`post-${i}`">
-				<NuxtLink :to="post.path" v-text="post.title" />
-				<sub v-text="formatDate(post.createdAt)" />
-			</li>
-		</template>
-	</ul>
 </div>
 </template>
 
