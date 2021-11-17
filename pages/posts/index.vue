@@ -20,11 +20,3 @@ export default {
 	}
 }
 </script>
-
-<style lang="scss">
-.post-page {
-	sub {
-		font-size: .6em;
-	}
-}
-</style>

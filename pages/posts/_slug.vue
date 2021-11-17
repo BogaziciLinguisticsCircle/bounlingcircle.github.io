@@ -13,11 +13,3 @@ export default {
 	name: 'PostPage'
 }
 </script>
-
-<style lang="scss">
-.post-page {
-	p {
-		white-space: break-spaces;
-	}
-}
-</style>

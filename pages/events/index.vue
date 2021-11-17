@@ -14,6 +14,3 @@ export default {
 	name: "EventsPage"
 }
 </script>
-
-<style lang="scss">
-</style>

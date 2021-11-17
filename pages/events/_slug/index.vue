@@ -7,13 +7,9 @@
 <script>
 export default {
 	async asyncData({ $content, params }) {
-		const event = await $content('events', params.slug).fetch()
+		const event = await $content(`events/${params.slug}`, 'index').fetch()
 		return { event }
 	},
 	name: "EventPage"
 }
 </script>
-
-<style lang="scss">
-
-</style>

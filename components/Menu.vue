@@ -15,9 +15,7 @@ export default {
 <style lang="scss">
 .menu {
 	display: flex;
-	// justify-content: center;
-	// position: absolute;
-	// top: 1em;
+	justify-content: center;
 	width: 100%;
 	margin-left: -.5em;
 	& > * {
@@ -26,6 +24,8 @@ export default {
 		background-color: #fafafa;
 		color: black;
 		transition: all ease-in-out .3s;
+		text-decoration: none;
+		font-weight: bold;
 	}
 	.nuxt-link-exact-active {
 		background-color: #1d1d1d;

@@ -17,26 +17,3 @@ export default {
 }
 </script>
 
-
-<style lang="scss">
-p {
-  white-space: break-spaces;
-}
-a {
-  text-decoration: none;
-  font-weight: bold;
-  sub {
-    font-size: .65em;
-  }
-}
-.dynamic-content {
-  h3 {
-    text-transform: uppercase;
-    font-size: .9em;
-    border-bottom: 1px dotted darkgray;
-  }
-  ul {
-    padding-left: 1em;
-  }
-}
-</style>
