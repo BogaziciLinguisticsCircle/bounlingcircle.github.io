@@ -25,6 +25,6 @@ The BLC Committee is glad to announce SCOL'22, previously known as BUSCTEL, in w
 <br />
 
 ### Previous Conferences
-- [BUSCTEL'20](busctel20/index.md)
-- [BUSCTEL'19](busctel19/index.md)
-- [BUSCTEL'18](busctel18/index.md)
+- [BUSCTEL'20](/events/busctel20)
+- [BUSCTEL'19](/events/busctel19)
+- [BUSCTEL'18](/events/busctel18)

@@ -61,8 +61,14 @@ section {
     }
     display: flex;
     flex-flow: column wrap;
+    max-height: 130px;
+    height: 130px;
   }
-  main { flex-shrink: 1; padding-bottom: 2em; }
+  main { 
+    flex-shrink: 1; 
+    padding-bottom: 2em;
+    max-width: 512px;
+  }
   footer {
     background-color: #fafafa;
     position: fixed;
@@ -70,12 +76,12 @@ section {
     left: 0;
     right: 0;
     padding: 1em;
-    font-size: .75em;
+    font-size: .5em;
     text-align: right;
   }
 }
 .nuxt-content {
-  p { white-space: break-spaces !important; }
+  // p { white-space: break-spaces !important; }
   ul { padding-left: 1em; }
   ul li a { text-decoration: none; color: black; }
 }
