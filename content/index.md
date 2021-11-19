@@ -1,25 +1,32 @@
 ---
 title: Home
-description: This is a homepage
+description: Homepage for BLC
 isIndex: true
 ---
 
-# Welcome to BOUN Ling Circle
+# Bogazici University Linguistics Circle
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliated with Bogazici University, the Department of Linguistics. BLC aims to coordinate, host, and participate in scholarly discussions with early-career researchers that are undergrad and master’s students. In addition to the annual BOUN Student Conference on Linguistics (**SCOL**, formerly known as BUSCTEL), BLC hosts informal talks on various subfields of linguistics. 
 
-| I     | am    | a     | table |
-| ---   | ---   | ---   | ---   |
-| What  | are   | you   | ?     |
+<br />
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Next Talk:** _A beautiful title for a very interesting talk_ <br /> by [John Doe](www.google.com) (Bogazici Unv.) on Friday, Nov 5. 
+
+<br />
+
+**[SCOL][scol]** started as an initiative to expand the scope of informal talk series and to include students from other departments as well as other universities on the occasion of the 50th anniversary of the linguistics program at Bogazici University.
+
+
+<br />
+
+For previous instances of BUSCTEL, please check out our [previous events page][previous].
+
+You can contact us via our _[twitter][twitter]_ or _[instagram][instagram]_ accounts. 
+
+To contact the organizers for giving a talk, please email [bounlingcircle at gmail.com][email].
+
+[scol]: www.utkuturk.com
+[twitter]: www.twitter.com
+[instagram]: www.instagram.com
+[email]: mailto:bounlingcircle@gmail.com
+[previous]: www.google.com
