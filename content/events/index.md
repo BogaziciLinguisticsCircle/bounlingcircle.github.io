@@ -1,30 +1,42 @@
 ---
-title: SCOL'22
-description: Info about SCOL
+title: Events
+description: List of all events
 date: null
 ---
 
-## SCOL'22 (former BUSCTEL)
-
-On the occasion of the 50th anniversary of [linguistics program](https://linguistics.boun.edu.tr/) at [BOUN](www.boun.edu.tr) in 2018, the Bogazici Linguistics Student Circle (BLC) wished to expand the scope of its biannual student presentation event to include presentations by students from other departments as well as other universities. We aimed to offer students the opportunity to interact with other students and scholars working on experimental and theoretical linguistics outside their immediate academic community. 
+## Upcoming Events
 
 <br />
 
-The BLC organized their first conference in 2018 in which students from graduate and undergraduate levels presented their work. BUSCTEL drew more than 300 participants, 28 speakers, and 100 paper submissions from 12 different faculties around the globe. 
+- [**May 27-28, SCOL 2022**](/scol22) <br /> <br />
+- **Tuesday, December 28, 07:00pm. Zoom meeting.**<br /> Defne Kartal (Lund University) <br /> **Alumni Q&A** | [Instagram](https://www.instagram.com/p/CX3pLaDqd2r/) <br /> <br />
+
+--- 
+<br /> <br />
+  
+
+
+## Archive
 
 <br />
 
-This year we will again accept posters as well as talks and offers an extra time slot for posters in order to allow participants to directly talk to the speakers and other researchers and experience for themselves their studies first hand. 
+### Fall 2021
 
 <br />
 
-The BLC Committee is glad to announce SCOL'22, previously known as BUSCTEL, in which students from graduate and undergraduate levels will present their work and posters, will be held on May 27-28, 2022.
+- **Saturday, November 11, 07:00pm. Zoom meeting.**<br /> Özge Bakay (UMass Amherst) <br /> **Alumni Q&A** | [Instagram](https://www.instagram.com/p/CV2lkztKhv3/) <br /> <br />
+- **Saturday, November 08, 07:00pm. Albert Long Hall & Zoom .**<br /> Sumru Özsoy (Bogazici University) <br /> **İşaret Dilleri Nedir, Ne Değildir?** | [Instagram](https://www.instagram.com/p/CV5Jb6jK6G1/) <br /> <br />
+
+
+### Fall 2020
 
 <br />
 
-<br />
+- **Saturday, Dec 19, 05:00pm. Zoom meeting.**<br /> Deniz Baran Aslan (École Normale Supérieure) <br /> **Computational Linguistics, Doğal Dil İşleme Nedir?** | [Instagram](https://www.instagram.com/p/CI8iTONl1aC/) <br /> <br />
+- **Saturday, Dec 12, 08:00pm. Zoom meeting.**<br /> [Hande Sevgi](www.google.com) (Harvard University) & [Duygu Göksu](www.google.com) (UMass Amherst) <br /> **Akademiye Hazırlık ve Amerika'da Doktora Yapmak** | [Instagram](https://www.instagram.com/p/CIinpURF6iH/) <br /> <br />
 
-### Previous Conferences
-- [BUSCTEL'20](/events/busctel20)
-- [BUSCTEL'19](/events/busctel19)
-- [BUSCTEL'18](/events/busctel18)
+### Spring 2020: [BUSCTEL 20](/events/busctel20)
+
+### Spring 2019: [BUSCTEL 19](/events/busctel19)
+
+### Spring 2018: [BUSCTEL 18](/events/busctel18)
