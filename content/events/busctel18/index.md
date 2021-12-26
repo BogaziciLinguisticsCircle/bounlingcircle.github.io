@@ -7,7 +7,7 @@ description: A test linguistics event
 
 The BLC organized the first BUSCTEL last year in which students from graduate and undergraduate levels presented their work. BUSCTEL '18 drew more than 150 participants, 15 speakers, and 55 paper submissions from 9 different faculties around Turkey and UK.
 
-Conference Program:
+## Talks
 
 | Speaker(s)       | Talk             |
 | ---           | ---               |
