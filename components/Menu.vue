@@ -2,7 +2,7 @@
 <div class="menu">
 	<NuxtLink to="/">Home</NuxtLink>
 	<NuxtLink to="/events">Events</NuxtLink>
-	<NuxtLink to="/scol21">SCOL21</NuxtLink>
+	<NuxtLink to="/scol22">SCOL22</NuxtLink>
 </div>
 </template>
 

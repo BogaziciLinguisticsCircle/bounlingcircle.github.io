@@ -7,7 +7,7 @@
 <script>
 export default {
 	async asyncData({ $content, params }) {
-		const scol = await $content(`scol21/${params.slug}`, 'index').fetch()
+		const scol = await $content(`scol22/${params.slug}`, 'index').fetch()
 		return { scol }
 	},
 	name: "ScolPage"

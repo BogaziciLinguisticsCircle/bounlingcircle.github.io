@@ -1,10 +1,10 @@
 ---
-title: SCOL21
-description: index for scol21
+title: SCOL22
+description: index for scol22
 isIndex: true
 ---
 
-# Student Conference on Linguistics 2021 (SCOL'21)
+# Student Conference on Linguistics 2022 (SCOL'22)
 
 Welcome!
 
