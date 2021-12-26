@@ -30,7 +30,7 @@ TBA
 
 SCOL is an annual conference that includes all aspects of linguistic research. Once again, we hope to include presentations and posters by students from other departments, as well as other universities, and to create an environment in which students studying in similar fields at different universities can exchange ideas and experiences. SCOL'20 drew more than 150 participants, 15 speakers, and 55 paper submissions from 9 different faculties from Turkey, Russia, USA, Cyprus, and Czechia.
 
-[tp]: /callforpapers/index.md
-[reg]: /registration/index.md
-[scol22]: index.md
-[cfp]: /transportation/index.md
+[tp]: /scol22/transportation
+[reg]: /scol22/registration
+[scol22]: /scol22
+[cfp]: /scol22/callforpapers

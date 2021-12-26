@@ -34,7 +34,7 @@ All questions and comments should be addressed to [our offical mail][mail].
 
 [ec]: www.google.com
 [mail]: mailto:busctel@boun.edu.tr
-[tp]: /callforpapers/index.md
-[reg]: /registration/index.md
-[scol22]: index.md
-[cfp]: /transportation/index.md
+[tp]: /scol22/transportation
+[reg]: /scol22/registration
+[scol22]: /scol22
+[cfp]: /scol22/callforpapers

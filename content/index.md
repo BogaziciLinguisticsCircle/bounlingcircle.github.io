@@ -25,7 +25,7 @@ You can contact us via our _[twitter][twitter]_ or _[instagram][instagram]_ acco
 
 To contact the organizers for giving a talk, please email [bounlingcircle at gmail.com][email].
 
-[scol_recent]: /scol21/
+[scol_recent]: /scol22/
 [twitter]: https://twitter.com/BounLingCircle
 [instagram]: https://www.instagram.com/boun.ling/
 [email]: mailto:bounlingcircle@gmail.com

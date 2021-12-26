@@ -14,7 +14,7 @@ description: registration for scol22
 Registration for SCOL'22 has not opened yet.
 
 
-[tp]: /callforpapers/index.md
-[reg]: /registration/index.md
-[scol22]: index.md
-[cfp]: /transportation/index.md
+[tp]: /scol22/transportation
+[reg]: /scol22/registration
+[scol22]: /scol22
+[cfp]: /scol22/callforpapers

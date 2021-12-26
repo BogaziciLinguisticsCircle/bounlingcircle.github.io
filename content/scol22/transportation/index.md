@@ -25,7 +25,7 @@ description: transportation for scol22
               <span>Hacıosman Metro-İstinye-Rumelihisarüstü</span></div></div> <hr></div></div> <div class="transportation-container">
 
 
-[tp]: /callforpapers/index.md
-[reg]: /registration/index.md
-[scol22]: index.md
-[cfp]: /transportation/index.md
+[tp]: /scol22/transportation
+[reg]: /scol22/registration
+[scol22]: /scol22
+[cfp]: /scol22/callforpapers
