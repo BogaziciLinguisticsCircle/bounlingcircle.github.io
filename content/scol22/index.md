@@ -6,7 +6,7 @@ isIndex: true
 
 ---
 
-**[SCOL'22][scol22] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
+**[SCOL'22][scol22] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
 
 ---
 
@@ -34,3 +34,4 @@ SCOL is an annual conference that includes all aspects of linguistic research. O
 [reg]: /scol22/registration
 [scol22]: /scol22
 [cfp]: /scol22/callforpapers
+[prog]: /scol22/program

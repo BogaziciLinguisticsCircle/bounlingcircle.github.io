@@ -1,6 +1,6 @@
 ---
-title: Registration
-description: registration for scol22
+title: Program
+description: program for scol22
 ---
 
 ---
@@ -9,13 +9,12 @@ description: registration for scol22
 
 ---
 
-# Registration
+# Program
 
-Registration for SCOL'22 has not opened yet.
+Program for SCOL'22 has not announced yet.
 
-
+[prog]: /scol22/program
 [tp]: /scol22/transportation
 [reg]: /scol22/registration
 [scol22]: /scol22
 [cfp]: /scol22/callforpapers
-[prog]: /scol22/program
