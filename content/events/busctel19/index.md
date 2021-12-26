@@ -3,9 +3,17 @@ title: BUSCTEL '19
 description: A test linguistics event
 ---
 
-# BUSCTEL'19 Schedule
+# BUSCTEL'19 
 
-The BLC organized the first BUSCTEL last year in which students from graduate and undergraduate levels presented their work. BUSCTEL '19 drew 
+**Date:** February 15-16, 2019
+
+**Venue:** Boğaziçi University, Demir Demirgil Auditorium & Özger Arnas Hall
+
+**Invited Speakers:** Nilüfer Şener & Serkan Şener
+
+**Workshops:** TID/Turkish Sign Language Workshop
+
+BUSCTEL offers a forum for young researchers working in any area of theoretical and experimental linguistics to present their research. This year, we introduced posters and flash presentations to BUSCTEL. They are semi-casual sessions for students who would like to present their paper ideas, problems in their ongoing analysis, questions on a topic that they would like to work on etc. 
 
 
 ## Talks
@@ -14,36 +22,39 @@ The BLC organized the first BUSCTEL last year in which students from graduate an
 | ---           | ---               |
 | Invited: Nilüfer Şener   | ---   |
 |    ‎        |                |
-| Işıl Doğan, Orhan Ilhan, Nurgül Arslan, Ayşe Doğan, Ezgi Sarıdaş & Aslı Aktan-Erciyes    | Effects of L2-English on first L1 Narrative Skills   |
+| Işıl Doğan, Orhan Ilhan, Nurgül Arslan, Ayşe Doğan, Ezgi Sarıdaş & Aslı Aktan-Erciyes    | [Effects of L2-English on first L1 Narrative Skills](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/isiltalk.pdf)   |
 |    ‎        |                |
-| Özlem Ergelen   | Informatıon Structure in Turkish Nominal Phrases |
+| Özlem Ergelen   | [Informatıon Structure in Turkish Nominal Phrases](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/ozlem.pdf) |
 |    ‎        |                |
-| Onur Keleş   | Assessing and Comparing Verbal Fluency in Turkish Sign Language and Turkish |
+| Onur Keleş   | [Assessing and Comparing Verbal Fluency in Turkish Sign Language and Turkish](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/onur.pdf) |
 |    ‎        |                |
 | Elvan Tamyürek Özparlak, Burcu Saral & Noyan Dokudan   | TID/Turkish Sign Language Workshop |
 |    ‎        |                |
-| Kağan Yasin Porsuk & Tilbe Göksun   | Veya and Ya Da: Marking the distinction between the inclusive and exclusive disjunctive "or" in Turkish language |
+| Kağan Yasin Porsuk & Tilbe Göksun   | [Veya and Ya Da: Marking the distinction between the inclusive and exclusive disjunctive "or" in Turkish language](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/kagan.pdf) |
 |    ‎        |                |
-| Mehmet İlteriş Bozkurt   | On Nominalizers in Turkish Embedded Clauses |
+| Mehmet İlteriş Bozkurt   | [On Nominalizers in Turkish Embedded Clauses](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/ilteris.pdf) |
 |    ‎        |                |
 | Invited:  Serkan Şener   | --- |
 |    ‎        |                |
-| Hande Sevgi   | The (non)effects of the age of acquisition of TİD: Evidence from classifiers and argument expressions |
+| Hande Sevgi   | [The (non)effects of the age of acquisition of TİD: Evidence from classifiers and argument expressions](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/hande.pdf) |
 |    ‎        |                |
-| Gökben Konuk   | Contribution of grammatical function and semantic role to discourse prominence: Evidence from language comprehension and language production in Turkish |
+| Gökben Konuk   | [Contribution of grammatical function and semantic role to discourse prominence: Evidence from language comprehension and language production in Turkish](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/gokben.pdf) |
 |    ‎        |                |
-| Assem Amirzhanova & Elena Guerzoni  | Kazakh Es-Words are Strict Negative Concord Items |
+| Assem Amirzhanova & Elena Guerzoni  | [Kazakh Es-Words are Strict Negative Concord Items](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/assem.pdf) |
 |    ‎        |                |
 | Utku Türk  | Is Accusative Case Really the Case? |
 |    ‎        |                |
-| Ecenur Çağırıcı  | L2 Comprehension in bilinguals after translating into L1 and L2 |
+| Ecenur Çağırıcı  | [L2 Comprehension in bilinguals after translating into L1 and L2](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/ecenur_merged.pdf) |
 |    ‎        |                |
 
 ## Posters
 
-​Posters:
-Word Association Analysis In Different Proficiency Levels, Gizem Yolcu & Seda Demirel
-IAC Model Using Word to Vector Similarities as Base Weights, Salih Fırat  Canpolat, Mustafa Özaydın, Enis Dönmez & Ece Cağlayan
-A Language Surviving in a Village in Turkey: Siberian Tatar Language, Mert Vanlıoğlu
-An Investigation on the Forms of Negation in Turkish: Towards a Formal Representation, Tuğçe Nur Bozkurt
-The Acquisition of L2 Turkish Evidentiality, Oylum Savlak, Buse Şentürk & Helin Toptancı
+[Word Association Analysis In Different Proficiency Levels](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/gizemyolcu.pdf), Gizem Yolcu & Seda Demirel
+
+[IAC Model Using Word to Vector Similarities as Base Weights](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/salih.pdf), Salih Fırat  Canpolat, Mustafa Özaydın, Enis Dönmez & Ece Cağlayan
+
+[A Language Surviving in a Village in Turkey: Siberian Tatar Language](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/mert.pdf), Mert Vanlıoğlu
+
+[An Investigation on the Forms of Negation in Turkish: Towards a Formal Representation](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/tugceguncel.pdf), Tuğçe Nur Bozkurt
+
+[The Acquisition of L2 Turkish Evidentiality](https://github.com/BogaziciLinguisticsCircle/busctel2019/blob/master/helin.pdf), Oylum Savlak, Buse Şentürk & Helin Toptancı

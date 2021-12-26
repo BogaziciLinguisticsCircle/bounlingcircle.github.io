@@ -3,9 +3,17 @@ title: BUSCTEL '18
 description: A test linguistics event
 ---
 
-# BUSCTEL'18 Schedule
+# BUSCTEL'18
 
-The BLC organized the first BUSCTEL last year in which students from graduate and undergraduate levels presented their work. BUSCTEL '18 drew more than 150 participants, 15 speakers, and 55 paper submissions from 9 different faculties around Turkey and UK.
+**Date:** February 9-10, 2018
+
+**Venue:** Boğaziçi University, Demir Demirgil Auditorium
+
+**Invited Speaker:** Elena Guerzoni
+
+**Workshop:** Sign Language Workshop
+
+BUSCTEL offers a forum for young researchers working in any area of theoretical and experimental linguistics to present their research. BUSCTEL '18 drew more than 150 participants, 15 speakers, and 55 paper submissions from 9 different faculties around Turkey and UK.
 
 ## Talks
 
@@ -13,7 +21,7 @@ The BLC organized the first BUSCTEL last year in which students from graduate an
 | ---           | ---               |
 | Invited: Elena Guerzoni (Boğaziçi University)    | "also only" and the scope theory of minimizer NPIs   |
 |    ‎        |                |
-| Elvan Tamyürek Özparlak (Boğaziçi University) & Süleyman Taşçı (Boğaziçi University, Koç University)	| Sign Workshop|
+| Elvan Tamyürek Özparlak (Boğaziçi University) & Süleyman Taşçı (Boğaziçi University, Koç University)	| Sign Workshop |
 |    ‎        |                |
 | Demet Kayabaşı (Boğaziçi University)    | [Null Subject in TID: Pro-drop or Topic-drop?](https://www.dropbox.com/s/ts7i2fk161wtssq/Demet%20Kayaba%C5%9F%C4%B1%20%28Bo%C4%9Fazi%C3%A7i%20University%29.pdf?dl=0)   |
 |    ‎        |                |
