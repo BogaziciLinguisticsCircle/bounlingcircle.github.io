@@ -10,22 +10,22 @@ The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliate
 
 <br />
 
-**Next Talk:** _A beautiful title for a very interesting talk_ <br /> by [John Doe](www.google.com) (Bogazici Unv.) on Friday, Nov 5. 
+**Next Talk:** _Alumni Q&A_ <br /> by [Defne Kartal](https://lu.academia.edu/SDefneKartal) (Lund Unv.) on Tuesday, Dec 28. | [Registration](https://forms.gle/fbU7pq3pyZBdpLG9A) 
 
 <br />
 
-**[SCOL][scol]** started as an initiative to expand the scope of informal talk series and to include students from other departments as well as other universities on the occasion of the 50th anniversary of the linguistics program at Bogazici University. 
+**[SCOL][scol_recent]** started as an initiative to expand the scope of informal talk series and to include students from other departments as well as other universities on the occasion of the 50th anniversary of the linguistics program at Bogazici University. We are organizing **[4th SCOL][scol_recent]** this year and hope to see you all in person!
 
 
 <br />
 
-For previous instances of BUSCTEL, please check out our [previous events page][previous].
+For previous instances of SCOL and other informal talks, please check out our [previous events page][previous].
 
 You can contact us via our _[twitter][twitter]_ or _[instagram][instagram]_ accounts. 
 
 To contact the organizers for giving a talk, please email [bounlingcircle at gmail.com][email].
 
-[scol]: /scol21/
+[scol_recent]: /scol21/
 [twitter]: https://twitter.com/BounLingCircle
 [instagram]: https://www.instagram.com/boun.ling/
 [email]: mailto:bounlingcircle@gmail.com
