@@ -32,7 +32,7 @@ Abstract, talks, and posters must be in English.
 
 All questions and comments should be addressed to [our offical mail][mail].
 
-[ec]: www.google.com
+[ec]: https://easychair.org/cfp/scol22
 [mail]: mailto:busctel@boun.edu.tr
 [tp]: /scol22/transportation
 [reg]: /scol22/registration
