@@ -14,7 +14,7 @@ isIndex: true
 
 Welcome!
 
-*The 4th annual SCOL (formerly known as BUSCTEL) will take place on May 27-28, 2022. All graduate and undergraduate students are welcome to sent their (work-in-progress) submissions!*
+*The 4th annual SCOL (formerly known as BUSCTEL) will take place on May 27-28, 2022. All graduate and undergraduate students are welcome to send their (work-in-progress) submissions!*
 
 Please check our [**Call For Papers**][cfp]!
 
