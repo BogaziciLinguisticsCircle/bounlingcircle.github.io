@@ -13,10 +13,16 @@ jobs:
     name: Build App
     runs-on: ubuntu-latest
     steps:
+      - name: Get the latest state
+        needs: actions/checkout@main
+
       - name: Install dependencies
         run: yarn install
 
-      - name: Build Project
+      - name: Build the project
+        run: yarn build
+
+      - name: Generate static files for the project
         run: yarn generate
 
   deploy:
