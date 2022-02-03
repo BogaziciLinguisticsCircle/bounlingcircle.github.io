@@ -1,0 +1,38 @@
+name: main
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Build App
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Build Project
+        run: yarn generate
+
+  deploy:
+    name: Deploy App
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the latest state
+        uses: actions/checkout@main
+
+      - name: Deploy project using FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.2.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+
+
+

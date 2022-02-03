@@ -7,8 +7,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "test:e2e": "nightwatch",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "test:e2e": "nightwatch"
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
