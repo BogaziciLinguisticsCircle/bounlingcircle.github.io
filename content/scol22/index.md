@@ -18,7 +18,9 @@ Welcome!
 
 Please check our [**Call For Papers**][cfp]!
 
-**Abstract submission deadline: March 5, 2022**
+**UPDATED Deadline for Submission:** March 15, 2022
+
+~~**Deadline for Submission:** March 5, 2022~~
 
 
 
