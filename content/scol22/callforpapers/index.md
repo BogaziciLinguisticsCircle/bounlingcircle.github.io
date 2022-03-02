@@ -16,7 +16,9 @@ Submissions are open for _30 minute talks_ (20 minute talk + 10 minutes for disc
 
 <br />
 
-**Deadline for Submission:** March 5, 2022
+**UPDATED Deadline for Submission:** March 15, 2022
+
+~~**Deadline for Submission:** March 5, 2022~~
 
 **Notification of Acceptance:** March 24, 2022
 
