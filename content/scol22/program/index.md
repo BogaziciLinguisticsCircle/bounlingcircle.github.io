@@ -25,7 +25,7 @@ description: program for scol22
 |    ‎        |          |      |
 | | | **First Session** |
 |    ‎        |           |     |
-| 11:15 | [On the Distribution of of ``mA+sI(n)'' Clauses and Control in Turkish](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yazar_22.pdf) | Merve Yazar |
+| 11:15 | [Diminutivizing L-reduplication in Norwegian](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/torgersen_22.pdf) | Henrik Torgersen |
 |    ‎        |                | |
 | 11:45 | [A Uniform Structure of Temporal Adverbial Clauses in Mandarin Chinese](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yan_22.pdf) | Qiuhao Charles Yan | 
 |    ‎        |                | |
@@ -68,7 +68,7 @@ description: program for scol22
 |    ‎        |                | |
 | 16:00 | [Normal Disfluency and Syntactic Complexity in Child Speech](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/plotnik_22.pdf) | Ziv Plotnik |
 |    ‎        |                | |
-| 16:30 | [Diminutivizing L-reduplication in Norwegian](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/torgersen_22.pdf) | Henrik Torgersen |
+| 16:30 | [On the Distribution of of ''mA+sI(n)'' Clauses and Control in Turkish](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yazar_22.pdf) | Merve Yazar |
 |    ‎        |                | |
 | 17:00 |  | Closing Remarks|
 |    ‎        |                | |
