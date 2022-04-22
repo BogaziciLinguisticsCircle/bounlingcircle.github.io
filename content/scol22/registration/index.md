@@ -11,7 +11,7 @@ description: registration for scol22
 
 # Registration
 
-Registration for SCOL'22 has not opened yet.
+Please fill out [this registration form](https://forms.gle/EUtD1srMGzrqNqqH6) until May 19; otherwise, you will not be able to enter the university.
 
 
 [tp]: /scol22/transportation
