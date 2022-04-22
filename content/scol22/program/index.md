@@ -25,7 +25,7 @@ description: program for scol22
 |    ‎        |          |      |
 | | | **First Session** |
 |    ‎        |           |     |
-| 11:15 | [On the Distribution of of ``mA+sI(n)'' Clauses and Control in Turkish](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yazar_22.pdf){:target="_blank"} | Merve Yazar |
+| 11:15 | [On the Distribution of of ``mA+sI(n)'' Clauses and Control in Turkish](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yazar_22.pdf) | Merve Yazar |
 |    ‎        |                | |
 | 11:45 | [A Uniform Structure of Temporal Adverbial Clauses in Mandarin Chinese](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yan_22.pdf) | Qiuhao Charles Yan | 
 |    ‎        |                | |
