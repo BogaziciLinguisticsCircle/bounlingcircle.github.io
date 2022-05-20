@@ -12,7 +12,7 @@ isIndex: true
 
 # Student Conference on Linguistics 2022 (SCOL'22)
 
-Welcome! [**Check out our program!**][prog] and fill out [this registration form](https://forms.gle/EUtD1srMGzrqNqqH6) until May 19!
+Welcome! [**Check out our program!**][prog] and fill out [this registration form](https://forms.gle/3ec8wf6hXzNmY1Bw9) until May 25!
 
 *The 4th annual SCOL (formerly known as BUSCTEL) will take place on May 27-28, 2022. All graduate and undergraduate students are welcome to send their (work-in-progress) submissions!*
 
