@@ -58,7 +58,7 @@ description: program for scol22
 |    ‎        |                | |
 | 12:45 | | Lunch Break |
 |    ‎        |     |           |
-| 13:45   | | Workshop: TBD |
+| 13:45   | Collecting Data from Twitter & Computational Tools to Collect and Utilize Language Data: Case of Minority Languages | Workshop: Karahan Şahin & Büşra Marşan |
 |    ‎        |                | |
 | 15:15   | | Coffee Break |
 |    ‎        |                | |
