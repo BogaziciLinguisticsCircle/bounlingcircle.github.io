@@ -11,7 +11,7 @@ description: registration for scol22
 
 # Registration
 
-Please fill out [this registration form](https://forms.gle/3ec8wf6hXzNmY1Bw9) until May 25; otherwise, you will not be able to enter the university.
+Registration for SCOL'22 has closed. Thank you for your interest. You can contact us via scol@boun.edu.tr
 
 
 [tp]: /scol22/transportation

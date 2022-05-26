@@ -27,7 +27,7 @@ description: program for scol22
 |    ‎        |           |     |
 | 11:15 | [Diminutivizing L-reduplication in Norwegian](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/torgersen_22.pdf) | Henrik Torgersen |
 |    ‎        |                | |
-| 11:45 | [A Uniform Structure of Temporal Adverbial Clauses in Mandarin Chinese](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yan_22.pdf) | Qiuhao Charles Yan | 
+| 11:45 | Cancelled. |  | 
 |    ‎        |                | |
 | 12:15 | [An Analysis of Case Licensing and Morphological Realizations of Case in Turkish](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yenice_22.pdf) | Arife Betül Yenice | 
 |    ‎        |                | |
