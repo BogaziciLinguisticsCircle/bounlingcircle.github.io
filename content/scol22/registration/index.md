@@ -11,7 +11,7 @@ description: registration for scol22
 
 # Registration
 
-Registration for SCOL'22 has not opened yet.
+Registration for SCOL'22 has closed. Thank you for your interest. You can contact us via scol@boun.edu.tr
 
 
 [tp]: /scol22/transportation

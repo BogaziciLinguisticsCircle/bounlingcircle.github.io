@@ -11,9 +11,7 @@ description: transportation for scol22
 
 # Transportation
 
-
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1503.6898912187219!2d29.051963!3d41.082548!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac9f92d1af553%3A0xe49bc6b01b0d20cc!2zQmViZWssIE5hdHVrIEJpcmthbiBCaW5hc8SxIChUw7xyayBEaWxpIHZlIEVkZWJpeWF0xLEgdmUgRWtvbm9taSBCw7Zsw7xtbGVyaSksIDM0MzQyIEJlxZ9pa3RhxZ8vxLBzdGFuYnVs!5e0!3m2!1sen!2str!4v1640545743143!5m2!1sen!2str" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233.01216632861576!2d29.052665272542566!3d41.083910489521394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac9f8c0abc37d%3A0xe1194501e3c2d015!2zw5ZGQg!5e0!3m2!1str!2str!4v1653484086335!5m2!1str!2str" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ---
 
