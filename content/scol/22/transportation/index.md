@@ -40,8 +40,8 @@ Buses
 
 ---
 
-[tp]: /scol22/transportation
-[reg]: /scol22/registration
-[scol22]: /scol22
-[cfp]: /scol22/callforpapers
-[prog]: /scol22/program
+[tp]: /scol/22/transportation
+[reg]: /scol/22/registration
+[scol22]: /scol/22
+[cfp]: /scol/22/callforpapers
+[prog]: /scol/22/program

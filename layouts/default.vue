@@ -27,6 +27,7 @@ export default {
 
 <style lang="scss">
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Passions+Conflict&display=swap');
 html, body {
   background-color: #fafafa;
   font-family: "Fira Sans", sans-serif;
@@ -83,10 +84,11 @@ section {
     text-align: right;
   }
 }
+
 .nuxt-content {
   // p { white-space: break-spaces !important; }
   ul { padding-left: 1em; }
-  ul li a { text-decoration: none; color: black; }
+  ul li a { text-decoration: none; color: black; text-decoration: underline; }
 }
 // PAGE TRANSITIONS
 .fade-enter-active,
