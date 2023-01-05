@@ -65,7 +65,8 @@ section {
     height: 130px;
   }
   main { 
-    flex-shrink: 1; 
+    flex-shrink: 1;
+    flex-basis: 50%;
     padding-bottom: 2em;
     max-width: 512px;
   }
