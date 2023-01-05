@@ -69,6 +69,7 @@ section {
     flex-basis: 50%;
     padding-bottom: 2em;
     max-width: 512px;
+    min-width: 512px;
   }
   footer {
     background-color: #fafafa;
