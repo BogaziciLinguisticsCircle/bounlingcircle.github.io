@@ -10,7 +10,7 @@ isIndex: true
 
 ---
 
-# Student Conference on Linguistics 2022 (SCOL'22)
+# Student Conference on Linguistics 2023 (SCOL'23)
 
 Welcome! [**Check out our program!**][prog] and fill out [this registration form](https://forms.gle/3ec8wf6hXzNmY1Bw9) until May 25!
 
