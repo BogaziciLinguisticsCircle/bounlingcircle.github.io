@@ -11,7 +11,7 @@ description: transportation for scol23
 
 # Transportation
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233.01216632861576!2d29.052665272542566!3d41.083910489521394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac9f8c0abc37d%3A0xe1194501e3c2d015!2zw5ZGQg!5e0!3m2!1str!2str!4v1653484086335!5m2!1str!2str" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.3175414958214!2d29.050594915191475!3d41.083908122716714!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac93ac2612cc9%3A0xddaf30b9dc3a875d!2sDemir%20Demirgil%20Salonu!5e0!3m2!1sen!2sus!4v1673195896240!5m2!1sen!2sus" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ---
 

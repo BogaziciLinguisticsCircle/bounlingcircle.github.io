@@ -11,7 +11,7 @@ description: program for scol23
 
 # Program
 
-To be announced
+To be Announced
 
 [prog]: /scol/23/program
 [tp]: /scol/23/transportation

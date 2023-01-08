@@ -12,9 +12,9 @@ isIndex: true
 
 # Student Conference on Linguistics 2023 (SCOL'23)
 
-Welcome! [**Check out our program!**][prog] and fill out [this registration form](https://forms.gle/3ec8wf6hXzNmY1Bw9) until May 4!
+Welcome! All graduate and undergraduate students are welcome to send their (work-in-progress) submissions via [our EasyAbs page](http://linguistlist.org/easyabs/scol2023) no later than February 20, 2023. Check our [call for papers page][cfp] for more details!
 
-*The 5th annual SCOL (formerly known as BUSCTEL) will take place on May 5-6, 2023. All graduate and undergraduate students are welcome to send their (work-in-progress) submissions!*
+*The 5th annual SCOL (formerly known as BUSCTEL) will take place on May 5-6, 2023 at Boğaziçi University South Campus Demir Demirgil Hall.*
 
 
 Keynote Speakers
