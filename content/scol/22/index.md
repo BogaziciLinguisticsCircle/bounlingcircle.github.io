@@ -20,7 +20,7 @@ SCOL offers a forum for young researchers working in any area of theoretical and
 
 | Speaker(s)       | Talk             |
 | ---           | ---               |
-| Invited Talk   |  Pavel Caha  |
+| Invited Talk: Pavel Caha   |    |
 |    ‎        |                |
 | Henrik Torgersen   | [Diminutivizing L-reduplication in Norwegian](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/torgersen_22.pdf)   |
 |    ‎        |                |
@@ -32,7 +32,7 @@ SCOL offers a forum for young researchers working in any area of theoretical and
 |    ‎        |                |
 | Marija Brašić  | [Distributed agreement account for gender resolution in sandwiched coordination: Evidence from Bosnian/Croatian/Serbian](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/brasic-a_22.pdf)  |
 |    ‎        |                |
-| Invited Talk  | Seçkin Arslan |
+| Invited Talk: Seçkin Arslan  |  |
 |    ‎        |                |
 | Aref Milani  |  [Morpho-orthographic processing of Persian inflectional verbs exhibiting allomorphy](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/milani_22.pdf)  |
 |    ‎        |                |

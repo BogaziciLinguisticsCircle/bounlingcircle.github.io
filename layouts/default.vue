@@ -2,7 +2,7 @@
   <section>
     <aside>
       <h2>Boğaziçi University</h2>
-      <h3>Lingustistics Circle</h3>
+      <h3>Linguistics Circle</h3>
       <hr>
       <Menu />
     </aside>

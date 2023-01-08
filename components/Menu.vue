@@ -5,7 +5,7 @@
 	<!-- Uncomment this after finishing the pages -->
 	<NuxtLink to="/scol/23">SCOL23</NuxtLink>
 	<!-- Comment the one after this line -->
-	<NuxtLink to="/scol/22">SCOL22</NuxtLink>
+	<!-- <NuxtLink to="/scol/22">SCOL22</NuxtLink> -->
 </div>
 </template>
 
