@@ -1,21 +1,21 @@
 ---
 title: Registration
-description: registration for scol22
+description: registration for scol23
 ---
 
 ---
 
-**[SCOL'22][scol22] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
+**[SCOL'23][scol23] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
 
 ---
 
 # Registration
 
-Registration for SCOL'22 has closed. Thank you for your interest. You can contact us via scol@boun.edu.tr
+Registration for SCOL'22 has not yet opened. Thank you for your interest. You can contact us via scol@boun.edu.tr
 
 
-[tp]: /scol/22/transportation
-[reg]: /scol/22/registration
-[scol22]: /scol/22
-[cfp]: /scol/22/callforpapers
-[prog]: /scol/22/program
+[tp]: /scol/23/transportation
+[reg]: /scol/23/registration
+[scol23]: /scol/23
+[cfp]: /scol/23/callforpapers
+[prog]: /scol/23/program

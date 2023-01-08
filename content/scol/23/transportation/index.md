@@ -1,11 +1,11 @@
 ---
 title: Transportation
-description: transportation for scol22
+description: transportation for scol23
 ---
 
 ---
 
-**[SCOL'22][scol22] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
+**[SCOL'23][scol23] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
 
 ---
 
@@ -26,6 +26,12 @@ M6 | Levent-Boğaziçi Üniversitesi
 
 ---
 
+Funicular
+
+F4 | Boğaziçi Üniversitesi-Aşiyan
+
+---
+
 Buses
 
 [559C | Taksim-Rumelihisarüstü](https://www.iett.istanbul/en/main/hatlar/559C/RUMELİ%20HİSARÜSTÜ%20-%20TAKSİM-İETT-Otobüs-Sefer-Saatleri-ve-Durakları)
@@ -40,8 +46,8 @@ Buses
 
 ---
 
-[tp]: /scol/22/transportation
-[reg]: /scol/22/registration
-[scol22]: /scol/22
-[cfp]: /scol/22/callforpapers
-[prog]: /scol/22/program
+[tp]: /scol/23/transportation
+[reg]: /scol/23/registration
+[scol23]: /scol/23
+[cfp]: /scol/23/callforpapers
+[prog]: /scol/23/program

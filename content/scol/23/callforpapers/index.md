@@ -1,28 +1,27 @@
 ---
 title: Call For Papers
-description: cfp for scol22
+description: cfp for scol23
 ---
 
 ---
 
-**[SCOL'22][scol22] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
+**[SCOL'23][scol23] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
 
 ---
 
 
 # Call For Papers
 
-Submissions are open for _30 minute talks_ (20 minute talk + 10 minutes for discussion) and posters. All graduate and undergraduate students are welcome to sent their submissions via [our easychair portal][ec]. 
+Submissions are open for _30 minute talks_ (20 minute talk + 10 minutes for discussion) and posters. All graduate and undergraduate students are welcome to sent their submissions via [our  portal][ec]. 
 
 <br />
 
-**UPDATED Deadline for Submission:** March 15, 2022
 
-~~**Deadline for Submission:** March 5, 2022~~
+**Deadline for Submission:** TBD
 
-**Notification of Acceptance:** March 24, 2022
+**Notification of Acceptance:** TBD
 
-**Publication of provisional program:** April 18, 2022
+**Publication of provisional program:** TBD
 
 <br />
 
@@ -34,10 +33,10 @@ Abstract, talks, and posters must be in English.
 
 All questions and comments should be addressed to [our offical mail][mail].
 
-[ec]: https://easychair.org/cfp/scol22
-[mail]: mailto:busctel@boun.edu.tr
-[tp]: /scol/22/transportation
-[reg]: /scol/22/registration
-[scol22]: /scol/22
-[cfp]: /scol/22/callforpapers
-[prog]: /scol/22/program
+[ec]: 
+[mail]: mailto:scol@boun.edu.tr
+[tp]: /scol/23/transportation
+[reg]: /scol/23/registration
+[scol23]: /scol/23
+[cfp]: /scol/23/callforpapers
+[prog]: /scol/23/program
