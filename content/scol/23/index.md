@@ -17,7 +17,7 @@ Welcome! All graduate and undergraduate students are welcome to send their (work
 *The 5th annual SCOL (formerly known as BUSCTEL) will take place on May 5-6, 2023 at Boğaziçi University South Campus Demir Demirgil Hall.*
 
 
-Keynote Speakers
+**Keynote Speakers**
 
 Léa Nash
 
