@@ -12,7 +12,15 @@ description: cfp for scol23
 
 # Call For Papers
 
-Submissions are open for _30 minute talks_ (20 minute talk + 10 minutes for discussion) and posters. All graduate and undergraduate students are welcome to sent their submissions via [our EasyAbs portal][ea]. 
+We are proud to announce the 5th annual edition of Boğaziçi University Student Conference on Linguistics (SCOL)
+
+Formerly known as BUSCTEL, Boğaziçi SCOL aims to gather aspiring and well-renowned linguists from all over the world at a conference in the world famous transcontinental metropolis, Istanbul. Ever since 2018, thanks to our organization team’s undying passion and unyielding diligence in their efforts, each year we enrich our catalogue of research projects, broaden the visions of our attendees, and house more and more guests from around the globe.
+
+Similar to the previous editions, we will be entertaining various presentations and posters by the students from other departments, as well as other institutions in order to create an interactional space amongst peers and instructors. Over the course of years, we have gathered hundreds of attendees from all around the world.
+
+If you are an aspiring linguist or interested in any branch of linguistics, sign up for the participation to the conference and join us in our linguistic venture!
+
+**Submissions are open for _30 minute talks_ (20 minute talk + 10 minutes for discussion) and posters. All graduate and undergraduate students are welcome to sent their submissions via [our EasyAbs portal][ea].** 
 
 <br />
 
