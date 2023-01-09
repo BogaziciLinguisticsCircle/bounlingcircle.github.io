@@ -5,12 +5,12 @@ date: null
 ---
 
 ## Upcoming Events
-- [**May 27-28, SCOL 2022**](/scol/22)
-- **Tuesday, December 28, 07:00pm. Zoom meeting.**<br /> Defne Kartal (Lund University) <br /> **Alumni Q&A** | [Instagram](https://www.instagram.com/p/CX3pLaDqd2r/)
+- [**May 5-6, SCOL 2023**](/scol/23)
 --- 
 ## Archive
-- Spring 2022: [SCOL'22](/scol/22)
+- Spring 2022: [**May 27-28, SCOL 2022**](/scol/22)
 - Fall 2021
+	- **Tuesday, December 28, 07:00pm. Zoom meeting.**<br /> Defne Kartal (Lund University) <br /> **Alumni Q&A** | [Instagram](https://www.instagram.com/p/CX3pLaDqd2r/)
 	- **Saturday, November 11, 07:00pm. Zoom meeting.**<br /> Özge Bakay (UMass Amherst) <br /> **Alumni Q&A** | [Instagram](https://www.instagram.com/p/CV2lkztKhv3/)
 	- **Saturday, November 08, 07:00pm. Albert Long Hall & Zoom .**<br /> Sumru Özsoy (Bogazici University) <br /> **İşaret Dilleri Nedir, Ne Değildir?** | [Instagram](https://www.instagram.com/p/CV5Jb6jK6G1/)
 - Fall 2020
