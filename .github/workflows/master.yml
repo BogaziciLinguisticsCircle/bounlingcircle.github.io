@@ -1,23 +1,32 @@
-name: master
+# Custom script for deploying website on school's servers.
+name: Deploy site to scol.boun.edu.tr
 
 on:
+  # Runs on pushes targeting the default branch
   push:
-    branches:
-      - master
+    branches: ["master"]
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
+  # Build job
   build:
     name: Build App
     runs-on: ubuntu-latest
     steps:
       - name: Get the latest state
-        uses: actions/checkout@v2.4.0
+        uses: actions/checkout@v3
 
       - name: Install dependencies
         run: yarn install
 
 #       - name: Build the project
 #         run: yarn build
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+          cache: ${{ steps.detect-package-manager.outputs.manager }}
 
       - name: Generate static files for the project
         run: yarn generate
@@ -26,7 +35,7 @@ jobs:
         uses: actions/upload-artifact@v2.3.1
         with:
           name: generated
-          path: dist
+          path: ./dist
 
   deploy:
     name: Deploy App
