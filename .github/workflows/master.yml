@@ -14,11 +14,11 @@ jobs:
     name: Build App
     runs-on: ubuntu-latest
     steps:
-      - name: Get the latest state
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3.3.0
 
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v3.6.0
         with:
           node-version: "16"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
@@ -30,7 +30,7 @@ jobs:
         run: yarn generate
         
       - name: Upload a build artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v3.1.2
         with:
           name: generated
           path: ./dist
@@ -41,16 +41,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Get the latest state
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.3.0
         
       - name: Download the build artifact
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v3.0.2
         with:
           name: generated
           path: dist
 
       - name: Deploy project using FTP
-        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        uses: SamKirkland/FTP-Deploy-Action@4.3.3
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
