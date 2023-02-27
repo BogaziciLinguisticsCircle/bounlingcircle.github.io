@@ -17,22 +17,20 @@ jobs:
       - name: Get the latest state
         uses: actions/checkout@v3
 
-      - name: Install dependencies
-        run: yarn install
-
-#       - name: Build the project
-#         run: yarn build
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: "16"
           cache: ${{ steps.detect-package-manager.outputs.manager }}
 
+      - name: Install dependencies
+        run: yarn install
+
       - name: Generate static files for the project
         run: yarn generate
         
       - name: Upload a build artifact
-        uses: actions/upload-artifact@v2.3.1
+        uses: actions/upload-artifact@v3
         with:
           name: generated
           path: ./dist
@@ -43,10 +41,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Get the latest state
-        uses: actions/checkout@v2.4.0
+        uses: actions/checkout@v3
         
       - name: Download the build artifact
-        uses: actions/download-artifact@v2.1.0
+        uses: actions/download-artifact@v3
         with:
           name: generated
           path: dist
