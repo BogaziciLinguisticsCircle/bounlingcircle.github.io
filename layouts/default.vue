@@ -28,6 +28,19 @@ export default {
 <style lang="scss">
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Passions+Conflict&display=swap');
+
+@media (max-width: 512px) {
+  main {
+    min-width: 256px !important;
+  }
+}
+
+@media (max-width: 256px) {
+  main {
+    min-width: 128px !important;
+  }
+}
+
 html, body {
   background-color: #fafafa;
   font-family: "Fira Sans", sans-serif;
