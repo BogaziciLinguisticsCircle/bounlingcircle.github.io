@@ -11,7 +11,7 @@ description: program for scol23
 
 # Program
 
-To be Announced
+You can access our program [here](https://github.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/raw/master/assets/SCOL2023Program.pdf).
 
 [prog]: /scol/23/program
 [tp]: /scol/23/transportation
