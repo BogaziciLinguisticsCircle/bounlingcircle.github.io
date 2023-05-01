@@ -11,7 +11,8 @@ description: registration for scol23
 
 # Registration
 
-Registration for SCOL'23 has not yet opened. Thank you for your interest and stay tuned! You can contact us via scol@boun.edu.tr
+You can register for SCOL '23 [here](https://forms.gle/fksFBBGe3AqeatTk9)
+If you have any questions, you can contact us via scol@boun.edu.tr
 
 
 [tp]: /scol/23/transportation
