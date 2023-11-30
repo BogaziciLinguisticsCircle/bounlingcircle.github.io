@@ -12,7 +12,7 @@ isIndex: true
 
 # Student Conference on Linguistics 2024 (SCOL'24)
 
-Welcome! The 6th annual SCOL (formerly known as BUSCTEL) will take place May 2024 at Boğaziçi University*
+Welcome! The 6th annual SCOL (formerly known as BUSCTEL) will take place May 2024 at Boğaziçi University. 
 
 
 

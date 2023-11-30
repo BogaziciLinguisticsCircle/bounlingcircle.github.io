@@ -11,7 +11,7 @@ description: program for scol24
 
 # Program
 
-To be Announced
+TBA
 
 [prog]: /scol/24/program
 [tp]: /scol/24/transportation
