@@ -5,9 +5,12 @@ date: null
 ---
 
 ## Upcoming Events
-- [**May 5-6, SCOL 2023**](/scol/23)
+- [**May 2024, SCOL**](/scol/24)
 --- 
+{% comment %} 
+
 ## Archive
+- Spring 2023 : [**May 5-6, SCOL 2023**](/scol/23)
 - Spring 2022: [**May 27-28, SCOL 2022**](/scol/22)
 - Fall 2021
 	- **Tuesday, December 28, 07:00pm. Zoom meeting.**<br /> Defne Kartal (Lund University) <br /> **Alumni Q&A** | [Instagram](https://www.instagram.com/p/CX3pLaDqd2r/)
@@ -19,3 +22,4 @@ date: null
 - Spring 2020: [BUSCTEL 20](/events/busctel20)
 - Spring 2019: [BUSCTEL 19](/events/busctel19)
 - Spring 2018: [BUSCTEL 18](/events/busctel18)
+{% endcomment %}
