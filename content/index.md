@@ -17,12 +17,5 @@ The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliate
 
 For previous instances of SCOL and other informal talks, please check out our [previous events page][previous].
 
-You can contact us via our _[twitter][twitter]_ or _[instagram][instagram]_ accounts. 
-
-To contact the organizers for giving a talk, please email [bounlingcircle at gmail.com][email].
-
 [scol_recent]: /scol/24/
-[twitter]: https://twitter.com/BounLingCircle
-[instagram]: https://www.instagram.com/boun.ling/
-[email]: mailto:bounlingcircle@gmail.com
 [previous]: /events/
