@@ -25,30 +25,24 @@ The official language of the conference is English. Submissions are open for 30-
 
 All graduate and undergraduate students are welcome to submit an abstract via our Oxford Abstracts platform [here](https://app.oxfordabstracts.com/stages/12530/submitter)
 
-<br />
-
 **Abstract guidelines:**
 
 *Submissions that fail to comply with any of the following guidelines will be automatically rejected.*
 
 1. Submit *anonymized* abstracts in PDF format with the filename PaperTitle.pdf. 
 2. Include the paper title and keywords (e.g., linguistic subfield(s), language(s)/language family) within the abstract. 
-3. Limit abstracts to two pages in A4 format in length. Use one-inch or 2.5 cm margins on all sizes and Times New Roman 12 point font size. The paragraph spacing should be 1,5. 
+3. Limit abstracts to two pages in A4 format in length. Use one-inch or 2.5 cm margins on all sizes and Times New Roman 12 point font size. The paragraph spacing should be 1,5 lines. 
 4. Incorporate data into the main text of the abstract, not on a separate page. 
 5. Anonymize submissions by **not** including author name(s) or any institutional name(s) in the abstract or filename. 
 6. Use the [Oxford Abstracts platform](https://app.oxfordabstracts.com/stages/12530/submitter) for the submission of abstracts. 
 7. Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author. 
 8. The language of the abstract must be English.
 
- <br />
-
 **Keynote speakers:** 
 
-**Junko Kanero**, Assistant Professor of Psychology at Sabancı University
+**Junko Kanero**, *Assistant Professor of Psychology at Sabancı University*
 
-*TBA*
-
-<br />
+**TBA**
 
 **Important dates:** 
 
