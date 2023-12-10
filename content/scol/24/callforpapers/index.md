@@ -24,6 +24,8 @@ The official language of the conference is English. Submissions are open for 30-
 
 https://app.oxfordabstracts.com/stages/12530/submitter
 
+<br />
+
 **Abstract guidelines:**
 
 *Submissions that fail to comply with any of the following guidelines will be automatically rejected.*
@@ -36,15 +38,24 @@ https://app.oxfordabstracts.com/stages/12530/submitter
 6. Use the Oxford Abstracts platform for the submission of abstracts. 
 7. Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author. 
 8. The language of the abstract must be English.
- 
-**Invited/Keynote speakers:** \\
-**Junko Kanero**, Assistant Professor of Psychology at Sabancı University\\
+
+ <br />
+
+**Invited/Keynote speakers:** 
+
+**Junko Kanero**, Assistant Professor of Psychology at Sabancı University
+
 *TBA*
 
-**Important dates:** \\
-**Submission deadline:** 1 February 2024 \\
-**Notification for acceptance:** 10 March 2024\\
-**Conference dates:** 10-11 May 2024\\
+<br />
+
+**Important dates:** 
+
+**Submission deadline:** 1 February 2024 
+
+**Notification for acceptance:** 10 March 2024
+
+**Conference dates:** 10-11 May 2024
 
 
 Contact us at [scol at boun.edu.tr][mail].
