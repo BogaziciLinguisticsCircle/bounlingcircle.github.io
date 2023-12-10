@@ -38,11 +38,15 @@ All graduate and undergraduate students are welcome to submit an abstract via ou
 7. Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author. 
 8. The language of the abstract must be English.
 
+<br />
+
 **Keynote speakers:** 
 
 **Junko Kanero**, *Assistant Professor of Psychology at Sabancı University*
 
 **TBA**
+
+<br />
 
 **Important dates:** 
 
@@ -52,6 +56,7 @@ All graduate and undergraduate students are welcome to submit an abstract via ou
 
 **Conference dates:** May 10-11, 2024
 
+<br />
 
 Contact us at [scol at boun.edu.tr][mail].
 
