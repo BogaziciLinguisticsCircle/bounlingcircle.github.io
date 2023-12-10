@@ -14,7 +14,7 @@ description: cfp for scol24
 
 The 6th Annual Meeting of Boğaziçi University Student Conference on Linguistics (SCOL’24) 
 
-**Submission deadline: 1 February 2024**
+**Submission deadline:** 1 February 2024
  
 We are pleased to announce the 6th annual edition of Boğaziçi University Student Conference on Linguistics (SCOL)! 
 Formerly known as BUSCTEL, Boğaziçi SCOL aims to gather graduate and undergraduate students in Linguistics from all over the  world at a conference in the world-famous transcontinental metropolis, Istanbul. Ever since 2018, thanks to our  organization team’s undying passion and unyielding diligence in their efforts, each year we enrich our catalogue of  research projects, broaden the visions of our attendees, and house more and more guests from around the globe.
@@ -26,7 +26,7 @@ https://app.oxfordabstracts.com/stages/12530/submitter
 
 **Abstract guidelines:**
 
-Submissions that fail to comply with any of the following guidelines will be automatically rejected. 
+*Submissions that fail to comply with any of the following guidelines will be automatically rejected.*
 
 1. Submit *anonymized* abstracts in PDF format with the filename PaperTitle.pdf. 
 2. Include the paper title and keywords (e.g., linguistic subfield(s), language(s)/language family) within the abstract. 
@@ -37,15 +37,14 @@ Submissions that fail to comply with any of the following guidelines will be aut
 7. Restrict submissions to one individual abstract and one joint abstract per author, or two joint abstracts per author. 
 8. The language of the abstract must be English.
  
-**Invited/Keynote speakers:**
-**Junko Kanero**, Assistant Professor of Psychology at Sabancı University
+**Invited/Keynote speakers:** \\
+**Junko Kanero**, Assistant Professor of Psychology at Sabancı University\\
 *TBA*
 
-**Important dates:** 
-
-**Submission deadline:** 1 February 2024
-**Notification for acceptance:** 10 March 2024
-**Conference dates:** 10-11 May 2024
+**Important dates:** \\
+**Submission deadline:** 1 February 2024 \\
+**Notification for acceptance:** 10 March 2024\\
+**Conference dates:** 10-11 May 2024\\
 
 
 Contact us at [scol at boun.edu.tr][mail].
