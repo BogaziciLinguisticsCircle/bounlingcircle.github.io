@@ -12,9 +12,6 @@ The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliate
 
 **[SCOL][scol_recent]** started as an initiative to expand the scope of informal talk series and to include students from other departments as well as other universities on the occasion of the 50th anniversary of the linguistics program at Bogazici University. We are organizing **[6th SCOL][scol_recent]** this year and hope to see you all in person!
 
-**We are now accepting submissions for the 6th Annual Meeting of Boğaziçi University Student Conference on Linguistics (SCOL’24)!** 
-
-You can find our call for papers [here](/scol/24/callforpapers)!
 
 <br />
 
