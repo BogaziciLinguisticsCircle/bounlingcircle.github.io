@@ -5,4 +5,4 @@ date: null
 ---
 
 ## Upcoming Events
-- [**May 2024, SCOL**](/scol/24)
+- [**May 31 - June 1, 2024, SCOL**](/scol/24)

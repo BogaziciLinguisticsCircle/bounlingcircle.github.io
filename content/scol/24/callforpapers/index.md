@@ -54,7 +54,7 @@ All graduate and undergraduate students are welcome to submit an abstract via ou
 
 **Notification for acceptance:** March 10, 2024
 
-**Conference dates:** May 10-11, 2024
+**Conference dates:** May 31 - June 1, 2024
 
 <br />
 
