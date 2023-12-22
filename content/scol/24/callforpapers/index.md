@@ -12,8 +12,6 @@ description: cfp for scol24
 
 # Call For Papers
 
-The 6th Annual Meeting of Boğaziçi University Student Conference on Linguistics (SCOL’24) 
-
 **Submission deadline:** February 1, 2024
  
 We are pleased to announce the 6th annual edition of Boğaziçi University Student Conference on Linguistics (SCOL)! 
@@ -59,6 +57,7 @@ All graduate and undergraduate students are welcome to submit an abstract via ou
 <br />
 
 Contact us at [scol at boun.edu.tr][mail].
+
 
 [mail]: mailto:scol@boun.edu.tr
 [tp]: /scol/24/transportation

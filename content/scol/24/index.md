@@ -16,6 +16,7 @@ Welcome! The 6th annual SCOL (formerly known as BUSCTEL) will take place May 31 
 
 **We are currently accepting submissions!** Please check out our [Call for Papers page][cfp] for details. 
 
+
 SCOL is an annual conference that includes all aspects of linguistic research. Once again, we hope to include presentations and posters by students from other departments and other universities. Our aim is to create an environment in which students studying in similar fields can exchange ideas and experiences. 
 
 Previous events: [BUSCTEL 2018](/events/busctel18) | [BUSCTEL 2019](/events/busctel19) | [BUSCTEL 2020](/events/busctel20) | [SCOL 2022](/scol/22) | [SCOL 2023](/scol/23)

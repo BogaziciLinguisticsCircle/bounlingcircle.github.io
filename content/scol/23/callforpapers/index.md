@@ -24,7 +24,7 @@ If you are an aspiring linguist or interested in any branch of linguistics, sign
 
 <br />
 
-**Extended Deadline for Submission:** March 8, 2023
+**Extended Deadline for Submission:** March 19, 2023
 
 ~~**Deadline for Submission:** February 20, 2023~~
 
