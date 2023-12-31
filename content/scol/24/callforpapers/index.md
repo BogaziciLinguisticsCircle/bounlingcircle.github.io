@@ -40,9 +40,9 @@ All graduate and undergraduate students are welcome to submit an abstract via ou
 
 **Keynote speakers:** 
 
-**Junko Kanero**, *Assistant Professor of Psychology at Sabancı University*
+**Dr. Junko Kanero**, *Department of Psychology, Sabancı University*
 
-**TBA**
+**Dr. Markus Pöchtrager**, *Department of Linguistics, University of Vienna*
 
 <br />
 
