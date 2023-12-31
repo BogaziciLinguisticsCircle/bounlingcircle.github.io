@@ -16,6 +16,11 @@ Welcome! The 6th annual SCOL (formerly known as BUSCTEL) will take place May 31 
 
 **We are currently accepting submissions!** Please check out our [Call for Papers page][cfp] for details. 
 
+**Keynote speakers:** 
+
+**Dr. Junko Kanero**, *Department of Psychology, Sabancı University*
+
+**Dr. Markus Pöchtrager**, *Department of Linguistics, University of Vienna*
 
 SCOL is an annual conference that includes all aspects of linguistic research. Once again, we hope to include presentations and posters by students from other departments and other universities. Our aim is to create an environment in which students studying in similar fields can exchange ideas and experiences. 
 
