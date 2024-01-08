@@ -2,6 +2,7 @@
   <div class="page">
     <NuxtContent :document="doc" class="markdown prose" />
   </div>
+  <Modal v-show="showModal" @close-modal="showModal = false" />
 </template>
 
 <script>
@@ -15,5 +16,14 @@ export default {
   },
   layout: 'default'
 }
-</script>
+import Modal from '/components/Modal.vue'
 
+export default {
+  components: { Modal },
+  data() {
+    return {
+      showModal: true,
+    }
+  },
+}
+</script>
