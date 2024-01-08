@@ -28,9 +28,7 @@ export default {}
   background-color: white;
   height: 500px;
   width: 500px;
-  margin-top: 2%;
-  margin-bottom: 2%;
-  padding: 30px 0;
+  margin: 2%;
   border-radius: 20px;
 }
 .close {
