@@ -1,7 +1,7 @@
 <template>
   <div class="modal-overlay" @click="$emit('close-modal')">
     <div class="modal" @click.stop>
-      <img src="~/assets/SCOL24Flyer.png"/>
+      <img src="~/assets/SCOL24Flyer.png" alt="conference flyer with a picture of albert long hall at bogazici university" style="max-width: 100%; height: auto"/>
     </div>
   </div>
 </template>
@@ -28,7 +28,7 @@ export default {}
   background-color: white;
   height: 500px;
   width: 500px;
-  margin-top: 0%;
+  margin-top: 2%;
   padding: 30px 0;
   border-radius: 20px;
 }
