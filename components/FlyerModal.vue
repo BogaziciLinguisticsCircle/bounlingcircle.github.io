@@ -27,7 +27,7 @@ export default {}
   text-align: center;
   background-color: white;
   max-height: 100%;
-  max-width: 25%;
+  width: auto%;
   margin: 2%;
   border-radius: 20px;
 }
