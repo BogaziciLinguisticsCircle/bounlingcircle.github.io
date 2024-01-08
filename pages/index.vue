@@ -1,7 +1,7 @@
 <template>
   <div class="page">
     <NuxtContent :document="doc" class="markdown prose" />
-    <Modal v-show="showModal" @close-modal="showModal = false" />
+    <FModal v-show="showModal" @close-modal="showModal = false" />
   </div>
 </template>
 
@@ -16,10 +16,10 @@ export default {
   },
   layout: 'default'
 }
-import Modal from '~/components/Modal.vue'
+import FModal from '~/components/FlyerModal.vue'
 
 export default {
-  components: { Modal },
+  components: { FModal },
   data() {
     return {
       showModal: true,
