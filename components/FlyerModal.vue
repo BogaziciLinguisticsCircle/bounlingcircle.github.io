@@ -1,7 +1,7 @@
 <template>
   <div class="modal-overlay" @click="$emit('close-modal')">
     <div class="modal" @click.stop>
-      <img src="~/static/main.png"/>
+      <img src="~/assets/SCOL24Flyer.png"/>
     </div>
   </div>
 </template>
@@ -28,8 +28,8 @@ export default {}
   background-color: white;
   height: 500px;
   width: 500px;
-  margin-top: 10%;
-  padding: 60px 0;
+  margin-top: 0%;
+  padding: 30px 0;
   border-radius: 20px;
 }
 .close {
