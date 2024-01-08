@@ -1,7 +1,7 @@
 <template>
   <div class="modal-overlay" @click="$emit('close-modal')">
     <div class="modal" @click.stop>
-      <img src="/static/main.png"/>
+      <img src="~/static/main.png"/>
     </div>
   </div>
 </template>
