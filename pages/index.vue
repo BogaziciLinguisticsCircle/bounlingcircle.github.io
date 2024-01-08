@@ -1,8 +1,8 @@
 <template>
   <div class="page">
     <NuxtContent :document="doc" class="markdown prose" />
+    <Modal v-show="showModal" @close-modal="showModal = false" />
   </div>
-  <Modal v-show="showModal" @close-modal="showModal = false" />
 </template>
 
 <script>
