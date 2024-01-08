@@ -1,7 +1,7 @@
 <template>
   <div class="modal-overlay" @click="$emit('close-modal')">
     <div class="modal" @click.stop>
-      <img src="~/assets/SCOL24Flyer.png" alt="conference flyer with a picture of albert long hall at bogazici university" style="max-width: 100%; height: auto"/>
+      <img src="~/assets/SCOL24Flyer.png" alt="conference flyer with a picture of albert long hall at bogazici university" style="max-height: 100%; width: auto"/>
     </div>
   </div>
 </template>
