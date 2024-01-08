@@ -26,7 +26,7 @@ export default {}
 .modal {
   text-align: center;
   background-color: white;
-  min-height: 100%;
+  max-height: 100%;
   max-width: 50%;
   margin: 2%;
   border-radius: 20px;
