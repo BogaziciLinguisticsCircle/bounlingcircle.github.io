@@ -19,6 +19,7 @@ The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliate
 <br />
 
 For previous instances of SCOL and other informal talks, please check out our [previous events page][previous].
+You can find us on social media through our [socials link](https://linkin.bio/scolboun). 
 
 [scol_recent]: /scol/24/
 [previous]: /events/
