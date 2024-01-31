@@ -5,7 +5,7 @@ description: cfp for scol24
 
 ---
 
-**[SCOL'24][scol24] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
+**[SCOL'24][scol24] ‎ ‎ ‎ | ‎ ‎ ‎ [Poster][flyer] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
 
 ---
 
@@ -69,3 +69,4 @@ Contact us at [scol at bogazici.edu.tr][mail].
 [scol24]: /scol/24
 [cfp]: /scol/24/callforpapers
 [prog]: /scol/24/program
+[flyer]: https://github.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/raw/master/assets/SCOL24Flyer.png
