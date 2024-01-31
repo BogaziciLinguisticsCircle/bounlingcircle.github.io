@@ -11,10 +11,11 @@ description: registration for scol24
 
 # Registration
 
-Registration for SCOL'24 has not yet opened. Thank you for your interest and stay tuned! You can contact us via [scol at boun.edu.tr][mail].
+Registration for SCOL'24 has not yet opened. Thank you for your interest and stay tuned! You can contact us at [scol at bogazici.edu.tr][mail].
 
 
-[mail]: mailto:scol@boun.edu.tr
+
+[mail]: mailto:scol@bogazici.edu.tr
 [tp]: /scol/24/transportation
 [reg]: /scol/24/registration
 [scol24]: /scol/24

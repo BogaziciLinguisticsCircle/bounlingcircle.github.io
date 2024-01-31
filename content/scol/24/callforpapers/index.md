@@ -12,7 +12,9 @@ description: cfp for scol24
 
 # Call For Papers
 
-**Submission deadline:** February 1, 2024
+**Extended submission deadline: February 11, 2024**
+
+~~**Submission deadline:** February 1, 2024~~
  
 We are pleased to announce the 6th annual edition of Boğaziçi University Student Conference on Linguistics (SCOL)! 
 Formerly known as BUSCTEL, Boğaziçi SCOL aims to gather graduate and undergraduate students in Linguistics from all over the  world at a conference in the world-famous transcontinental metropolis, Istanbul. Ever since 2018, thanks to our  organization team’s undying passion and unyielding diligence in their efforts, each year we enrich our catalogue of  research projects, broaden the visions of our attendees, and house more and more guests from around the globe.
@@ -48,7 +50,9 @@ All graduate and undergraduate students are welcome to submit an abstract via ou
 
 **Important dates:** 
 
-**Submission deadline:** February 1, 2024 
+**Extended submission deadline: February 11, 2024**
+
+~~**Submission deadline:** February 1, 2024~~
 
 **Notification for acceptance:** March 10, 2024
 
@@ -56,10 +60,10 @@ All graduate and undergraduate students are welcome to submit an abstract via ou
 
 <br />
 
-Contact us at [scol at boun.edu.tr][mail].
+Contact us at [scol at bogazici.edu.tr][mail].
 
 
-[mail]: mailto:scol@boun.edu.tr
+[mail]: mailto:scol@bogazici.edu.tr
 [tp]: /scol/24/transportation
 [reg]: /scol/24/registration
 [scol24]: /scol/24
