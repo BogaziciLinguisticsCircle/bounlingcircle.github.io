@@ -12,7 +12,9 @@ description: cfp for scol24
 
 # Call For Papers
 
-**Extended submission deadline: February 11, 2024**
+**Thank you very much for your interest in SCOL 2024! We are no longer accepting submissions.** 
+
+~~**Extended submission deadline:** February 11, 2024~~
 
 ~~**Submission deadline:** February 1, 2024~~
  
@@ -50,7 +52,7 @@ All graduate and undergraduate students are welcome to submit an abstract via ou
 
 **Important dates:** 
 
-**Extended submission deadline: February 11, 2024**
+~~**Extended submission deadline:** February 11, 2024~~
 
 ~~**Submission deadline:** February 1, 2024~~
 
