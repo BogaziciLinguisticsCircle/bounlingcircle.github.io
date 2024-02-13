@@ -16,7 +16,7 @@ Welcome! The 6th annual SCOL (formerly known as BUSCTEL) will take place May 31 
 
 **Please note!** Our conference e-mail address has been changed. You can now contact us at [scol at bogazici.edu.tr][mail].
 
-**We are currently accepting submissions!** Please check out our [Call for Papers page][cfp] for details. 
+**Thank you very much for your interest in SCOL 2024! We are no longer accepting submissions.** 
 
 **Keynote speakers:** 
 

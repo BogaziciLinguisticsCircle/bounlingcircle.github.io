@@ -10,11 +10,13 @@ The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliate
 
 <br />
 
-**[SCOL][scol_recent]** started as an initiative to expand the scope of informal talk series and to include students from other departments as well as other universities on the occasion of the 50th anniversary of the linguistics program at Bogazici University. We are organizing **[6th SCOL][scol_recent]** this year and hope to see you all in person!
+**[SCOL][scol_recent]** started as an initiative to expand the scope of informal talk series and to include students from other departments as well as other universities on the occasion of the 50th anniversary of the linguistics program at Boğaziçi University. We are organizing **[6th SCOL][scol_recent]** this year and hope to see you all in person!
 
-**Please note!** Our e-mail address has been changed. You can now contact us at [scol at bogazici.edu.tr][mail].
+**Please note!** Our email address has been changed. You can now contact us at [scol at bogazici.edu.tr][mail].
 
-**We are currently accepting submissions for SCOL 2024!** Please check out this year's [Call for Papers page][cfp] for details. 
+Please note that we are experiencing temporary server issues with our email account. Please reach out to us on social media if you suspect your email did not reach us. 
+
+**Thank you very much for your interest in SCOL 2024! We are no longer accepting submissions.** 
 
 <br />
 
@@ -25,4 +27,3 @@ You can find us on social media through our [socials link](https://linkin.bio/sc
 [scol_recent]: /scol/24/
 [previous]: /events/
 [mail]: mailto:scol@bogazici.edu.tr
-[cfp]: /scol/24/callforpapers
