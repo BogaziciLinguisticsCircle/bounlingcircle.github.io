@@ -11,8 +11,9 @@ description: registration for scol24
 
 # Registration
 
-Registration for SCOL'24 has not yet opened. Thank you for your interest and stay tuned! You can contact us at [scol at bogazici.edu.tr][mail].
+Everyone, including presenters, should register [here](https://register.oxfordabstracts.com/event/10579). 
 
+Registration is free of charge. 
 
 
 [mail]: mailto:scol@bogazici.edu.tr
