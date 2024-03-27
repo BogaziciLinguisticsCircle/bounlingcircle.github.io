@@ -12,6 +12,8 @@ The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliate
 
 **[SCOL][scol_recent]** started as an initiative to expand the scope of informal talk series and to include students from other departments as well as other universities on the occasion of the 50th anniversary of the linguistics program at Boğaziçi University. We are organizing **[6th SCOL][scol_recent]** this year and hope to see you all in person!
 
+<br />
+
 **Thank you very much for your interest in SCOL 2024!** 
 
 **Results for abstract submissions have been announced!**
@@ -20,7 +22,6 @@ Please contact us if you have not received your results.
 **Registrations are now open!** 
 Everyone, including presenters, should register [here](https://register.oxfordabstracts.com/event/10579). 
 
-<br />
 
 For previous instances of SCOL and other informal talks, please check out our [previous events page][previous].
 

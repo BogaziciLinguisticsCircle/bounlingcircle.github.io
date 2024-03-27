@@ -11,8 +11,6 @@ description: registration for scol24
 
 # Registration
 
-**Registrations are now open!** 
-
 Everyone, including presenters, should register [here](https://register.oxfordabstracts.com/event/10579). 
 
 Registration is free of charge. 
