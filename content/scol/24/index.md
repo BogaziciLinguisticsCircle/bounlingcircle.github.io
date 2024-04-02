@@ -16,7 +16,8 @@ Welcome! The 6th annual SCOL (formerly known as BUSCTEL) will take place May 31 
 
 Results for abstract submissions have been announced. Please [contact us][mail] if you have not received your results.
 
-Registrations are now open. Everyone, including presenters, should register [here](https://register.oxfordabstracts.com/event/10579). 
+**Registrations are now open!**
+Everyone, including presenters, should register [here](https://register.oxfordabstracts.com/event/10579). 
 
 **Keynote speakers:** 
 
