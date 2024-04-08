@@ -14,7 +14,7 @@ The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliate
 
 <br />
 
-**Thank you very much for your interest in SCOL 2024!** 
+**Thank you very much for your interest in SCOL 2024.** 
 
 **Results for abstract submissions have been announced!**
 Please contact us if you have not received your results.
