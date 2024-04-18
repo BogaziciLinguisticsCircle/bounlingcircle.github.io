@@ -11,25 +11,23 @@ description: program for scol24
 
 # Program
 
-# Program
 
-
-| Time | Talk       | Speaker(s)             |
+| Time | Speaker(s)       | Talk             |
 | ---           | ---           | ---               |
 | | **First Day** | |
 | 09:45 |   | Registration, Opening Remarks  | 
 |    ‎        |             |   |
 | | | **First Session** |
 |    ‎        |           |     |
-| 10:00  | How Turkish Structural Cases Behave in Causative Constructions: A Dependent Case Theoretic Analysis | Metehan Eryılmaz |
+| 10:00  | Metehan Eryılmaz | How Turkish Structural Cases Behave in Causative Constructions: A Dependent Case Theoretic Analysis |
 |    ‎        |                | |
-| 10:30 | Exploring the Relation between Gesture Presentation Perspective and Children's Spatial Performance | Elif Orakçı & Dilay Karadöller | 
+| 10:30 |  Elif Orakçı & Dilay Karadöller | Exploring the Relation between Gesture Presentation Perspective and Children's Spatial Performance |
 |    ‎        |          |      |
-| 11:00 | Verb Stranding VP Ellipsis in Turkish | Nagihan Lüle | 
+| 11:00 | Nagihan Lüle | Verb Stranding VP Ellipsis in Turkish | 
 |    ‎        |          |      |
 | 11:30 | Coffee Break | |
 |    ‎        |                | |
-| 12:00 | Invited Talk | Markus Pöchtrager | 
+| 12:00 | Markus Pöchtrager | Invited Talk | 
 |    ‎        |                | |
 | 13:00 | Lunch Break | |
 |    ‎        |     |           |
@@ -37,15 +35,15 @@ description: program for scol24
 |    ‎        |                | |
 |  | | **Second Session** |
 |    ‎        |                | |
-| 15:30 | A Phonetic and Phonological Analysis of the Word-Final Post-Geminate Vocoid in Modern Standard Persian | Elnaz Azimi |
+| 15:30 | Elnaz Azimi |A Phonetic and Phonological Analysis of the Word-Final Post-Geminate Vocoid in Modern Standard Persian | 
 |    ‎        |                | |
-| 16:00 | /e/ Lowering in the Turkish Negative Aorist  | Mehmet Can Dadan & Uğur Erken & Stefano Canalis |
+| 16:00 | Mehmet Can Dadan & Uğur Erken & Stefano Canalis | /e/ Lowering in the Turkish Negative Aorist  | 
 |    ‎        |                | |
 | 16:30 | Coffee Break |  |
 |    ‎        |                | |
-| 16:45 | Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | Ezgi Yıldız & Berna A. Uzundağ | 
+| 16:45 | Ezgi Yıldız & Berna A. Uzundağ | Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
 |    ‎        |          |      |
-| 17:15 | Onset Cluster Adaptation in Persian | Samira Hamzehei | 
+| 17:15 | Samira Hamzehei | Onset Cluster Adaptation in Persian | 
 |    ‎        |          |      |
 
 
