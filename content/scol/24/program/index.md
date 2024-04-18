@@ -43,7 +43,6 @@ description: program for scol24
 |  | | **Third Session** |
 |    ‎        |                | |
 | 16:45 | Ezgi Yıldız 
-
 Berna A. Uzundağ | Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
 |    ‎        |          |      |
 | 17:15 | Samira Hamzehei | Onset Cluster Adaptation in Persian | 
