@@ -12,7 +12,7 @@ description: program for scol24
 # Program
 
 **Day 1: Friday, May 31**
-| Time slot | Speaker(s)       | Talk             |
+| Timeslot | Speaker(s)       | Talk             |
 | :--------:           | :--           | :--               |
 | 09:45 - 10:00|   | Registration, Opening Remarks  | 
 |    ‎        |             |   |
