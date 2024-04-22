@@ -14,42 +14,43 @@ description: program for scol24
 **Day 1: Friday, May 31**
 | Time | Speaker(s)       | Talk             |
 | ---           | ---           | ---               |
-| 09:45 |   | Registration, Opening Remarks  | 
+| 09:45 - 10:00|   | Registration, Opening Remarks  | 
 |    ‎        |             |   |
-| | | **First Session** |
+| | **First Session** |  |
 |    ‎        |           |     |
-| 10:00  | Metehan Eryılmaz | How Turkish Structural Cases Behave in Causative Constructions: A Dependent Case Theoretic Analysis |
+| 10:00 - 10:30  | Metehan Eryılmaz | How Turkish Structural Cases Behave in Causative Constructions: A Dependent Case Theoretic Analysis |
 |    ‎        |                | |
-| 10:30 |  Elif Orakçı & Dilay Z. Karadöller | Exploring the Relation between Gesture Presentation Perspective and Children's Spatial Performance |
+| 10:30 - 11:00 |  Elif Orakçı & Dilay Z. Karadöller | Exploring the Relation between Gesture Presentation Perspective and Children's Spatial Performance |
 |    ‎        |          |      |
-| 11:00 | Nagihan Lüle | Verb Stranding VP Ellipsis in Turkish | 
+| 11:00 - 11:30 | Nagihan Lüle | Verb Stranding VP Ellipsis in Turkish | 
 |    ‎        |          |      |
-| 11:30 | | **Coffee Break** |
+| 11:30 - 12:00 | **Coffee Break** |  |
 |    ‎        |                | |
-| 12:00 | Markus Pöchtrager | Invited Talk | 
+| 12:00 - 13:00 | Invited: Markus Pöchtrager | Phonology goes syntax | 
 |    ‎        |                | |
-| 13:00 | | **Lunch Break** |
+| 13:00 - 14:30 |  **Lunch Break** | |
 |    ‎        |     |           |
-| 14:30 |  | **Poster Session 1** |
+| 14:30 - 15:30 | **Poster Session 1** | |
 |    ‎        |                | |
-|  | | **Second Session** |
+|  | **Second Session** |  |
 |    ‎        |                | |
-| 15:30 | Elnaz Azimi | A Phonetic and Phonological Analysis of the Word-Final Post-Geminate Vocoid in Modern Standard Persian | 
+| 15:30 - 16:00 | Elnaz Azimi | A Phonetic and Phonological Analysis of the Word-Final Post-Geminate Vocoid in Modern Standard Persian | 
 |    ‎        |                | |
-| 16:00 | Mehmet Can Dadan & Uğur Erken & Stefano Canalis | /e/ Lowering in the Turkish Negative Aorist  | 
+| 16:00 - 16:30 | Mehmet Can Dadan & Uğur Erken & Stefano Canalis | /e/ Lowering in the Turkish Negative Aorist  | 
 |    ‎        |                | |
-| 16:30 |  | **Coffee Break** |
+| 16:30 - 16:45 |  **Coffee Break** | |
 |    ‎        |                | |
-|  | | **Third Session** |
+|  | **Third Session** |  |
 |    ‎        |                | |
-| 16:45 | Ezgi Yıldız & Berna A. Uzundağ| Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
+| 16:45 - 17:15 | Ezgi Yıldız & Berna A. Uzundağ| Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
 |    ‎        |          |      |
-| 17:15 | Samira Hamzehei | Onset Cluster Adaptation in Persian | 
+| 17:15 - 17:45 | Samira Hamzehei | Onset Cluster Adaptation in Persian | 
 |    ‎        |          |      |
 
-**Posters**
+**Posters in session 1**
 
-Poster Title, Author Author
+The Role of Sound Symbolism on Trans+ Individuals’ Preferred Names: Challenging Binary Gender Cis-tem, Lilith Bardakçı
+
 
 [prog]: /scol/24/program
 [tp]: /scol/24/transportation
