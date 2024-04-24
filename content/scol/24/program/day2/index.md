@@ -10,7 +10,7 @@ description: program for day 2 scol24
 ---
 
 # Program
-**[Day 1][prog] [Day 2][prog2]**
+[Day 1](/scol/24/program) [Day 2](/scol/24/program/day2)
 
 **Day 2: Saturday, June 1**
 | Timeslot | Speaker(s)       | Talk             |
@@ -71,7 +71,6 @@ Word Frequency Is a Cue to Word Order for Adults: Validating an Online Method wi
 
 
 [prog]: /scol/24/program
-[prog2]: /scol/24/program/day2
 [tp]: /scol/24/transportation
 [reg]: /scol/24/registration
 [scol24]: /scol/24
