@@ -14,6 +14,7 @@ description: program for scol24
 <details>
 <summary> <b> Day 1: Friday, May 31 </b> </summary>
 
+
 | Timeslot | Speaker(s)       | Talk             |
 | :--------:           | :--           | :--               |
 |    ‎        |                | |
@@ -45,13 +46,13 @@ description: program for scol24
 |    ‎        |                | |
 | 16:45 17:15 | Ezgi Yıldız & Berna A. Uzundağ| Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
 |    ‎        |          |      |
-| 17:15 17:45 | Samira Hamzehei | [Onset Cluster Adaptation in Persian](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/assets/abstracts/hamzehei_24.pdf) | 
+| 17:15 17:45 | Samira Hamzehei | Onset Cluster Adaptation in Persian | 
 |    ‎        |          |      |
 
 <details>
 <summary> <b> Posters in session 1 </b> </summary>
 
-[The Role of Sound Symbolism on Trans+ Individuals’ Preferred Names: Challenging Binary Gender Cis-tem](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/assets/abstracts/bardakci_24.pdf), Lilith Bardakçı
+The Role of Sound Symbolism on Trans+ Individuals’ Preferred Names: Challenging Binary Gender Cis-tem, Lilith Bardakçı
 
 Classifier-Noun Constructions in the Yongjia Dialect of Wu Chinese, Shuyang Wei
 
@@ -69,7 +70,7 @@ Are randoms truly random?: Analyzing Linguistic Features of Keysmashes, Mehmet E
 
 Revisiting Turkish Reflexive Verbs, Zeynep Erdemir
 
-[VowSpace: A Vowel Formant Analysis Application](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/assets/abstracts/kaya_24.pdf), Ali Çağan Kaya
+VowSpace: A Vowel Formant Analysis Application, Ali Çağan Kaya
 
 Counting events in Turkish, Ömer Çağrı Uğurlu
 
@@ -80,12 +81,13 @@ A Survey of Vowel Deletion in Turkish, Alize Aydın
 <details>
 <summary> <b> Day 2: Saturday, June 1 </b> </summary>
 
+
 | Timeslot | Speaker(s)       | Talk             |
 | :--------:           | :--           | :--               |
 |    ‎        |             |   |
 | | **Third Session** |  |
 |    ‎        |           |     |
-| 10:00 10:30  | Furkan Dikmen | [What was believed, what was true: the case of meğer](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/dikmen_24.pdf) |
+| 10:00 10:30  | Furkan Dikmen | What was believed, what was true: the case of meğer |
 |    ‎        |                | |
 | 10:30 11:00 |  Madeline Ladore | Plural Semantics in Akan: An Experimental Investigation |
 |    ‎        |          |      |
@@ -107,7 +109,7 @@ A Survey of Vowel Deletion in Turkish, Alize Aydın
 |    ‎        |                | |
 | 16:30 16:45 |  **Coffee Break** | |
 |    ‎        |                | |
-| 16:45 17:15 | Engin Anıl Yolcu | [A Critical Discourse Analysis of the Posts on Street Dogs in an Online Student Community](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yolcu_24.pdf) | 
+| 16:45 17:15 | Engin Anıl Yolcu | A Critical Discourse Analysis of the Posts on Street Dogs in an Online Student Community | 
 |    ‎        |          |      |
 | 17:15 17:45 | Nisan Ece Gümüş | A Sociopragmatic Study on Turkish Native Speakers’ Condolence Speech Acts | 
 |    ‎        |          |      |
