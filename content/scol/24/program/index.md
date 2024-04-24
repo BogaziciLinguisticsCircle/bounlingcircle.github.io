@@ -12,7 +12,8 @@ description: program for scol24
 # Program
 
 <details>
-<summary> **Day 1: Friday, May 31** </summary>
+<summary> <b> Day 1: Friday, May 31 </b> </summary>
+
 | Timeslot | Speaker(s)       | Talk             |
 | :--------:           | :--           | :--               |
 |    ‎        |                | |
@@ -46,7 +47,7 @@ description: program for scol24
 |    ‎        |          |      |
 | 17:15 17:45 | Samira Hamzehei | Onset Cluster Adaptation in Persian | 
 |    ‎        |          |      |
-</details>
+
 <details>
 <summary> **Posters in session 1** </summary>
 
@@ -73,6 +74,7 @@ VowSpace: A Vowel Formant Analysis Application, Ali Çağan Kaya
 Counting events in Turkish, Ömer Çağrı Uğurlu
 
 A Survey of Vowel Deletion in Turkish, Alize Aydın
+</details>
 </details>
 
 [prog]: /scol/24/program
