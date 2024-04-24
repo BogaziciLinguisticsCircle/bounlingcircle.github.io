@@ -10,9 +10,9 @@ description: program for scol24
 ---
 
 # Program
-[Day 1](/scol/24/program) [Day 2](/scol/24/program/day2)
 
-**Day 1: Friday, May 31**
+<details>
+<summary> **Day 1: Friday, May 31** </summary>
 | Timeslot | Speaker(s)       | Talk             |
 | :--------:           | :--           | :--               |
 |    ‎        |                | |
@@ -46,8 +46,9 @@ description: program for scol24
 |    ‎        |          |      |
 | 17:15 17:45 | Samira Hamzehei | Onset Cluster Adaptation in Persian | 
 |    ‎        |          |      |
-
-**Posters in session 1**
+</details>
+<details>
+<summary> **Posters in session 1** </summary>
 
 The Role of Sound Symbolism on Trans+ Individuals’ Preferred Names: Challenging Binary Gender Cis-tem, Lilith Bardakçı
 
@@ -72,7 +73,7 @@ VowSpace: A Vowel Formant Analysis Application, Ali Çağan Kaya
 Counting events in Turkish, Ömer Çağrı Uğurlu
 
 A Survey of Vowel Deletion in Turkish, Alize Aydın
-
+</details>
 
 [prog]: /scol/24/program
 [tp]: /scol/24/transportation
