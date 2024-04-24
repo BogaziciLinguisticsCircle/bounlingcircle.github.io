@@ -27,7 +27,7 @@ description: program for scol24
 |    ‎        |          |      |
 | 11:30 12:00 | **Coffee Break** |  |
 |    ‎        |                | |
-| 12:00 13:00 | **Invited:** Junko Kanero | _Putting Person in the Equation: Role of Individual Differences in the Language-Thought Interplay_ | 
+| 12:00 13:00 | Invited: Junko Kanero | Putting Person in the Equation: Role of Individual Differences in the Language-Thought Interplay | 
 |    ‎        |                | |
 | 13:00 14:30 |  **Lunch Break** | |
 |    ‎        |     |           |
@@ -86,7 +86,7 @@ A Survey of Vowel Deletion in Turkish, Alize Aydın
 |    ‎        |          |      |
 | 11:30 12:00 | **Coffee Break** |  |
 |    ‎        |                | |
-| 12:00 13:00 | **Invited:** Markus Pöchtrager | _Phonology goes syntax_ | 
+| 12:00 13:00 | Invited: Markus Pöchtrager | Phonology goes syntax | 
 |    ‎        |                | |
 | 13:00 14:30 |  **Lunch Break** | |
 |    ‎        |     |           |
