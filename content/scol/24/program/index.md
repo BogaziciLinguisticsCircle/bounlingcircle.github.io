@@ -85,7 +85,7 @@ A Survey of Vowel Deletion in Turkish, Alize Aydın
 |    ‎        |             |   |
 | | **Third Session** |  |
 |    ‎        |           |     |
-| 10:00 10:30  | Furkan Dikmen | [What was believed, what was true: the case of meğer](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/assets/abstracts/dikmen_24.pdf) |
+| 10:00 10:30  | Furkan Dikmen | [What was believed, what was true: the case of meğer](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/dikmen_24.pdf) |
 |    ‎        |                | |
 | 10:30 11:00 |  Madeline Ladore | Plural Semantics in Akan: An Experimental Investigation |
 |    ‎        |          |      |
@@ -107,7 +107,7 @@ A Survey of Vowel Deletion in Turkish, Alize Aydın
 |    ‎        |                | |
 | 16:30 16:45 |  **Coffee Break** | |
 |    ‎        |                | |
-| 16:45 17:15 | Engin Anıl Yolcu | [A Critical Discourse Analysis of the Posts on Street Dogs in an Online Student Community](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/assets/abstracts/yolcu_24.pdf) | 
+| 16:45 17:15 | Engin Anıl Yolcu | [A Critical Discourse Analysis of the Posts on Street Dogs in an Online Student Community](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/yolcu_24.pdf) | 
 |    ‎        |          |      |
 | 17:15 17:45 | Nisan Ece Gümüş | A Sociopragmatic Study on Turkish Native Speakers’ Condolence Speech Acts | 
 |    ‎        |          |      |
