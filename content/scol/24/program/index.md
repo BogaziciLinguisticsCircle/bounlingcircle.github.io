@@ -10,7 +10,7 @@ description: program for scol24
 ---
 
 # Program
-**[Day 1]**[prog] **[Day 2]**[prog2]
+[Day 1](/scol/24/program) [Day 2](/scol/24/program/day2)
 
 **Day 1: Friday, May 31**
 | Timeslot | Speaker(s)       | Talk             |
