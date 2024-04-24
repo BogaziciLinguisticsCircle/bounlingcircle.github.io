@@ -14,6 +14,7 @@ description: program for scol24
 **Day 1: Friday, May 31**
 | Timeslot | Speaker(s)       | Talk             |
 | :--------:           | :--           | :--               |
+|    ‎        |                | |
 | 09:45 10:00|   | Registration, Opening Remarks  | 
 |    ‎        |             |   |
 | | **First Session** |  |
@@ -26,7 +27,7 @@ description: program for scol24
 |    ‎        |          |      |
 | 11:30 12:00 | **Coffee Break** |  |
 |    ‎        |                | |
-| 12:00 13:00 | Invited: Markus Pöchtrager | Phonology goes syntax | 
+| 12:00 13:00 | **Invited:** Junko Kanero | _Putting Person in the Equation: Role of Individual Differences in the Language-Thought Interplay_ | 
 |    ‎        |                | |
 | 13:00 14:30 |  **Lunch Break** | |
 |    ‎        |     |           |
@@ -40,8 +41,6 @@ description: program for scol24
 |    ‎        |                | |
 | 16:30 16:45 |  **Coffee Break** | |
 |    ‎        |                | |
-|  | **Third Session** |  |
-|    ‎        |                | |
 | 16:45 17:15 | Ezgi Yıldız & Berna A. Uzundağ| Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
 |    ‎        |          |      |
 | 17:15 17:45 | Samira Hamzehei | Onset Cluster Adaptation in Persian | 
@@ -50,6 +49,85 @@ description: program for scol24
 **Posters in session 1**
 
 The Role of Sound Symbolism on Trans+ Individuals’ Preferred Names: Challenging Binary Gender Cis-tem, Lilith Bardakçı
+
+Classifier-Noun Constructions in the Yongjia Dialect of Wu Chinese, Shuyang Wei
+
+The Puzzle of Complementation in Turkish, Ayşenur Coşkun
+
+An Eclectic Analysis for Turkish Backward Gapping, Özhan Alp Şehit
+
+Turkish Object Gaps: A Comparative Analysis of Verb-stranding Verb Phrase Ellipsis and Argument Ellipsis, Yasemin Fincan
+
+Processing Post-verbal Quantifiers in Turkish, Baran Günay, Nagihan Lüle
+
+Discursive construction of hegemonic power through political interviews: The case of Turkish presidential discourse, Selman Ecevit, Işıl Erduyan
+
+Are randoms truly random?: Analyzing Linguistic Features of Keysmashes, Mehmet Eren Aydın, Zeynep Arıman, Zeynep Erdemir
+
+Revisiting Turkish Reflexive Verbs, Zeynep Erdemir
+
+VowSpace: A Vowel Formant Analysis Application, Ali Çağan Kaya
+
+Counting events in Turkish, Ömer Çağrı Uğurlu
+
+A Survey of Vowel Deletion in Turkish, Alize Aydın
+
+**Day 2: Saturday, June 1**
+| Timeslot | Speaker(s)       | Talk             |
+| :--------:           | :--           | :--               |
+|    ‎        |             |   |
+| | **Third Session** |  |
+|    ‎        |           |     |
+| 10:00 10:30  | Furkan Dikmen | What was believed, what was true: the case of meğer |
+|    ‎        |                | |
+| 10:30 11:00 |  Madeline Ladore | Plural Semantics in Akan: An Experimental Investigation |
+|    ‎        |          |      |
+| 11:00 11:30 | Baran Günay | Wh-exclamatives in Turkish: “Ne içtik be!” | 
+|    ‎        |          |      |
+| 11:30 12:00 | **Coffee Break** |  |
+|    ‎        |                | |
+| 12:00 13:00 | **Invited:** Markus Pöchtrager | _Phonology goes syntax_ | 
+|    ‎        |                | |
+| 13:00 14:30 |  **Lunch Break** | |
+|    ‎        |     |           |
+| 14:30 15:30 | **Poster Session 2** | |
+|    ‎        |                | |
+|  | **Fourth Session** |  |
+|    ‎        |                | |
+| 15:30 16:00 | Rüveyda Şahyar | Modeling Morphological Learning: Tolerance Principle on Turkish past tense -DI | 
+|    ‎        |                | |
+| 16:00 16:30 | Asia Klimova | Artificial Grammar Learning: Preliminary Study  | 
+|    ‎        |                | |
+| 16:30 16:45 |  **Coffee Break** | |
+|    ‎        |                | |
+| 16:45 17:15 | Engin Anıl Yolcu | A Critical Discourse Analysis of the Posts on Street Dogs in an Online Student Community | 
+|    ‎        |          |      |
+| 17:15 17:45 | Nisan Ece Gümüş | A Sociopragmatic Study on Turkish Native Speakers’ Condolence Speech Acts | 
+|    ‎        |          |      |
+
+**Posters in session 2**
+
+Decoding Human-AI Interaction: A Discourse-Historical Analysis Approach of ChatGPT's Representation on Social Media, Zeynep Beste Coşkun
+
+Vision-Language Pre-Training in NLP, Lucas Akkersdijk, Linnea Cresta
+
+A Psycholinguistic Study of Slovenian Taboo Words: What Makes Taboo Word a Taboo?, Julija Kos, Christina Manouilidou
+
+A Cross-Linguistic Corpus-Assisted Discourse Study of COVID-19 Vaccine News, Ahmet Ergün
+
+Complexity of Telicity Marking in TİD, Aysemin Yaşar, Kadir Gökgöz, Bahadır Kisbet
+
+Unraveling Pointing in Turkish Sign Language (TİD), Ece Eroğlu, Karahan Şahin, Kadir Gökgöz
+
+Deep Learning for Out-of-Domain Detection without In-Domain Labels, Isabelle Dubois
+
+Expressing Emotions Across Postpositional Constructions in Turkish: A Corpus-Based Approach, Deniz Ay, Fırat Başbuğ
+
+An Investigation of Subject Attachment in Adjunct Clauses in Turkish, Ege Aydaş
+
+Word Frequency Is a Cue to Word Order for Adults: Validating an Online Method with Speakers of Italian and Turkish for More Inclusive Psycholinguistic Testing, Zeynep Aydın, Judit Gervain 
+
+“They say” makes good liars: a cross-linguistic investigation on evidentiality in language and deception, Şeyma Kalender, Çağla Aydın, Ayberk Kaan Güneş, Selma Berfin Tanış, Junko Kanero, Amanda Edmonds, Fanny Meunier, Shona Whyte, Seçkin Arslan
 
 
 [prog]: /scol/24/program
