@@ -10,7 +10,7 @@ description: program for day 2 scol24
 ---
 
 # Program
-**[Day 1]**[prog] **[Day 2]**[prog2]
+**[Day 1][prog] [Day 2][prog2]**
 
 **Day 2: Saturday, June 1**
 | Timeslot | Speaker(s)       | Talk             |
