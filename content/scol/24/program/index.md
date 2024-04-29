@@ -22,7 +22,7 @@ description: program for scol24
 |    ‎        |             |   |
 | | **First Session** |  |
 |    ‎        |           |     |
-| 10:00 10:30  | Metehan Eryılmaz | How Turkish Structural Cases Behave in Causative Constructions: A Dependent Case Theoretic Analysis |
+| 10:00 10:30  | Metehan Eryılmaz | [How Turkish Structural Cases Behave in Causative Constructions: A Dependent Case Theoretic Analysis](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/eryilmaz_24.pdf) |
 |    ‎        |                | |
 | 10:30 11:00 |  Elif Orakçı & Dilay Z. Karadöller | Exploring the Relation between Gesture Presentation Perspective and Children's Spatial Performance |
 |    ‎        |          |      |
@@ -40,21 +40,21 @@ description: program for scol24
 |    ‎        |                | |
 | 15:30 16:00 | Elnaz Azimi | A Phonetic and Phonological Analysis of the Word-Final Post-Geminate Vocoid in Modern Standard Persian | 
 |    ‎        |                | |
-| 16:00 16:30 | Mehmet Can Dadan & Uğur Erken & Stefano Canalis | /e/ Lowering in the Turkish Negative Aorist  | 
+| 16:00 16:30 | Mehmet Can Dadan & Uğur Erken & Stefano Canalis | [/e/ Lowering in the Turkish Negative Aorist](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/dadan-erken-canalis_24.pdf)  | 
 |    ‎        |                | |
 | 16:30 16:45 |  **Coffee Break** | |
 |    ‎        |                | |
 | 16:45 17:15 | Ezgi Yıldız & Berna A. Uzundağ| Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
 |    ‎        |          |      |
-| 17:15 17:45 | Samira Hamzehei | Onset Cluster Adaptation in Persian | 
+| 17:15 17:45 | Samira Hamzehei | [Onset Cluster Adaptation in Persian](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/hamzehei_24.pdf) | 
 |    ‎        |          |      |
 
 <details>
 <summary> <b> Posters in session 1 </b> </summary>
 
-The Role of Sound Symbolism on Trans+ Individuals’ Preferred Names: Challenging Binary Gender Cis-tem, Lilith Bardakçı
+[The Role of Sound Symbolism on Trans+ Individuals’ Preferred Names: Challenging Binary Gender Cis-tem](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/bardakci_24.pdf), Lilith Bardakçı
 
-Classifier-Noun Constructions in the Yongjia Dialect of Wu Chinese, Shuyang Wei
+[Classifier-Noun Constructions in the Yongjia Dialect of Wu Chinese](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/wei_24.pdf), Shuyang Wei
 
 The Puzzle of Complementation in Turkish, Ayşenur Coşkun
 
@@ -70,7 +70,7 @@ Are randoms truly random?: Analyzing Linguistic Features of Keysmashes, Mehmet E
 
 Revisiting Turkish Reflexive Verbs, Zeynep Erdemir
 
-VowSpace: A Vowel Formant Analysis Application, Ali Çağan Kaya
+[VowSpace: A Vowel Formant Analysis Application](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/kaya_24.pdf), Ali Çağan Kaya
 
 Counting events in Turkish, Ömer Çağrı Uğurlu
 
@@ -87,7 +87,7 @@ A Survey of Vowel Deletion in Turkish, Alize Aydın
 |    ‎        |             |   |
 | | **Third Session** |  |
 |    ‎        |           |     |
-| 10:00 10:30  | Furkan Dikmen | What was believed, what was true: the case of meğer |
+| 10:00 10:30  | Furkan Dikmen | [What was believed, what was true: the case of meğer](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/dikmen_24.pdf) |
 |    ‎        |                | |
 | 10:30 11:00 |  Madeline Ladore | Plural Semantics in Akan: An Experimental Investigation |
 |    ‎        |          |      |
@@ -109,7 +109,7 @@ A Survey of Vowel Deletion in Turkish, Alize Aydın
 |    ‎        |                | |
 | 16:30 16:45 |  **Coffee Break** | |
 |    ‎        |                | |
-| 16:45 17:15 | Engin Anıl Yolcu | A Critical Discourse Analysis of the Posts on Street Dogs in an Online Student Community | 
+| 16:45 17:15 | Engin Anıl Yolcu | [A Critical Discourse Analysis of the Posts on Street Dogs in an Online Student Community](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/yolcu_24.pdf) | 
 |    ‎        |          |      |
 | 17:15 17:45 | Nisan Ece Gümüş | A Sociopragmatic Study on Turkish Native Speakers’ Condolence Speech Acts | 
 |    ‎        |          |      |
@@ -123,7 +123,7 @@ Vision-Language Pre-Training in NLP, Lucas Akkersdijk, Linnea Cresta
 
 A Psycholinguistic Study of Slovenian Taboo Words: What Makes Taboo Word a Taboo?, Julija Kos, Christina Manouilidou
 
-A Cross-Linguistic Corpus-Assisted Discourse Study of COVID-19 Vaccine News, Ahmet Ergün
+[A Cross-Linguistic Corpus-Assisted Discourse Study of COVID-19 Vaccine News](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/ergun_24.pdf), Ahmet Ergün
 
 Complexity of Telicity Marking in TİD, Aysemin Yaşar, Kadir Gökgöz, Bahadır Kisbet
 
