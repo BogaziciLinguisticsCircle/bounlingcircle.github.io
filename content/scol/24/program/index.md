@@ -56,11 +56,11 @@ description: program for scol24
 
 [Classifier-Noun Constructions in the Yongjia Dialect of Wu Chinese](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/wei_24.pdf), Shuyang Wei
 
-The Puzzle of Complementation in Turkish, Ayşenur Coşkun
+[The Puzzle of Complementation in Turkish](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/coskun_24.pdf), Ayşenur Coşkun
 
 An Eclectic Analysis for Turkish Backward Gapping, Özhan Alp Şehit
 
-Turkish Object Gaps: A Comparative Analysis of Verb-stranding Verb Phrase Ellipsis and Argument Ellipsis, Yasemin Fincan
+[Turkish Object Gaps: A Comparative Analysis of Verb-stranding Verb Phrase Ellipsis and Argument Ellipsis](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/fincan_24.pdf), Yasemin Fincan
 
 Processing Post-verbal Quantifiers in Turkish, Baran Günay, Nagihan Lüle
 
@@ -135,7 +135,7 @@ Expressing Emotions Across Postpositional Constructions in Turkish: A Corpus-Bas
 
 An Investigation of Subject Attachment in Adjunct Clauses in Turkish, Ege Aydaş
 
-Word Frequency Is a Cue to Word Order for Adults: Validating an Online Method with Speakers of Italian and Turkish for More Inclusive Psycholinguistic Testing, Zeynep Aydın, Judit Gervain 
+[Word Frequency Is a Cue to Word Order for Adults: Validating an Online Method with Speakers of Italian and Turkish for More Inclusive Psycholinguistic Testing](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/aydin-gervain_24.pdf), Zeynep Aydın, Judit Gervain 
 
 “They say” makes good liars: a cross-linguistic investigation on evidentiality in language and deception, Şeyma Kalender, Çağla Aydın, Ayberk Kaan Güneş, Selma Berfin Tanış, Junko Kanero, Amanda Edmonds, Fanny Meunier, Shona Whyte, Seçkin Arslan
 
