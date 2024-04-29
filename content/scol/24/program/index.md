@@ -103,7 +103,7 @@ A Survey of Vowel Deletion in Turkish, Alize Aydın
 |    ‎        |                | |
 |  | **Fourth Session** |  |
 |    ‎        |                | |
-| 15:30 16:00 | Rüveyda Şahyar | Modeling Morphological Learning: Tolerance Principle on Turkish past tense -DI | 
+| 15:30 16:00 | Rüveyda Şahyar | [Modeling Morphological Learning: Tolerance Principle on Turkish past tense -DI](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/next/assets/abstracts/sahyar_24.pdf) | 
 |    ‎        |                | |
 | 16:00 16:30 | Asia Klimova | Artificial Grammar Learning: Preliminary Study  | 
 |    ‎        |                | |
