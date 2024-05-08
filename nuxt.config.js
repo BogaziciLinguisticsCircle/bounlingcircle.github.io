@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'bogazicilinguisticscircle.github.io',
+    title: 'Bogazici University Linguistics Circle',
     htmlAttrs: {
       lang: 'en'
     },
