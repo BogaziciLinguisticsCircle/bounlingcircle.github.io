@@ -13,6 +13,8 @@
     </main>
     <footer>
       Made by Yankı Ekin Yüksel
+      <br>
+      Source Code Available on <a href="https://github.com/BogaziciLinguisticsCircle/scol.boun.edu.tr" target="_blank">Github</a>
     </footer>
   </section>
 </template>

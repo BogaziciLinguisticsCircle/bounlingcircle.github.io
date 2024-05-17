@@ -137,7 +137,7 @@ An Investigation of Subject Attachment in Adjunct Clauses in Turkish, Ege Aydaş
 
 [Word Frequency Is a Cue to Word Order for Adults: Validating an Online Method with Speakers of Italian and Turkish for More Inclusive Psycholinguistic Testing](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/aydin-gervain_24.pdf), Zeynep Aydın, Judit Gervain 
 
-“They say” makes good liars: a cross-linguistic investigation on evidentiality in language and deception, Şeyma Kalender, Çağla Aydın, Ayberk Kaan Güneş, Selma Berfin Tanış, Junko Kanero, Amanda Edmonds, Fanny Meunier, Shona Whyte, Seçkin Arslan
+[“They say” makes good liars: a cross-linguistic investigation on evidentiality in language and deception](https://raw.githubusercontent.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/master/assets/abstracts/kalenderetal_2024.pdf), Şeyma Kalender, Çağla Aydın, Ayberk Kaan Güneş, Selma Berfin Tanış, Junko Kanero, Amanda Edmonds, Fanny Meunier, Shona Whyte, Seçkin Arslan
 
 </details>
 </details>
