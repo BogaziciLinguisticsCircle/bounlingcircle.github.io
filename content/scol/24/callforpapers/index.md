@@ -71,4 +71,4 @@ Contact us at [scol at bogazici.edu.tr][mail].
 [scol24]: /scol/24
 [cfp]: /scol/24/callforpapers
 [prog]: /scol/24/program
-[flyer]: http://scol.bogazici.edu.tr/src/SCOL24Flyer.png
+[flyer]: http://scol.bogazici.edu.tr/SCOL24Flyer.png

@@ -39,5 +39,5 @@ You can find us on social media through our [socials link](https://linkin.bio/sc
 [cfp]: /scol/24/callforpapers
 [prog]: /scol/24/program
 [mail]: mailto:scol@bogazici.edu.tr
-[flyer]: http://scol.bogazici.edu.tr/src/SCOL24Flyer.png
+[flyer]: http://scol.bogazici.edu.tr/SCOL24Flyer.png
 
