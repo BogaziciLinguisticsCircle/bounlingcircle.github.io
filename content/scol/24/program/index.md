@@ -147,4 +147,4 @@ An Investigation of Subject Attachment in Adjunct Clauses in Turkish, Ege Aydaş
 [reg]: /scol/24/registration
 [scol24]: /scol/24
 [cfp]: /scol/24/callforpapers
-[flyer]: https://github.com/BogaziciLinguisticsCircle/scol.boun.edu.tr/raw/master/assets/SCOL24Flyer.png
+[flyer]: http://scol.bogazici.edu.tr/src/SCOL24Flyer.png
