@@ -72,7 +72,7 @@ Revisiting Turkish Reflexive Verbs, Zeynep Erdemir
 
 [VowSpace: A Vowel Formant Analysis Application](http://scol.bogazici.edu.tr/abstracts/2024/kaya_24.pdf), Ali Çağan Kaya
 
-Counting events in Turkish, Ömer Çağrı Uğurlu
+[Counting events in Turkish](http://scol.bogazici.edu.tr/abstracts/2024/ugurlu_24.pdf), Ömer Çağrı Uğurlu
 
 A Survey of Vowel Deletion in Turkish, Alize Aydın
 </details>
