@@ -38,7 +38,7 @@ description: program for scol24
 |    ‎        |                | |
 |  | **Second Session** |  |
 |    ‎        |                | |
-| 15:30 16:00 | Elnaz Azimi | A Phonetic and Phonological Analysis of the Word-Final Post-Geminate Vocoid in Modern Standard Persian | 
+| 15:30 16:00 | Elnaz Azimi | [A Phonetic and Phonological Analysis of the Word-Final Post-Geminate Vocoid in Modern Standard Persian](http://scol.bogazici.edu.tr/abstracts/2024/azimi_24.pdf) | 
 |    ‎        |                | |
 | 16:00 16:30 | Mehmet Can Dadan & Uğur Erken & Stefano Canalis | [/e/ Lowering in the Turkish Negative Aorist](http://scol.bogazici.edu.tr/abstracts/2024/dadan-erken-canalis_24.pdf)  | 
 |    ‎        |                | |
@@ -64,7 +64,7 @@ description: program for scol24
 
 Processing Post-verbal Quantifiers in Turkish, Baran Günay, Nagihan Lüle
 
-Discursive construction of hegemonic power through political interviews: The case of Turkish presidential discourse, Selman Ecevit, Işıl Erduyan
+[Discursive construction of hegemonic power through political interviews: The case of Turkish presidential discourse](http://scol.bogazici.edu.tr/abstracts/2024/ecevit-erduyan_24.pdf), Selman Ecevit, Işıl Erduyan
 
 [Are randoms truly random?: Analyzing Linguistic Features of Keysmashes](http://scol.bogazici.edu.tr/abstracts/2024/aydin-ariman-erdemir_24.pdf), Mehmet Eren Aydın, Zeynep Arıman, Zeynep Erdemir
 
@@ -89,7 +89,7 @@ A Survey of Vowel Deletion in Turkish, Alize Aydın
 |    ‎        |           |     |
 | 10:00 10:30  | Furkan Dikmen | [What was believed, what was true: the case of meğer](http://scol.bogazici.edu.tr/abstracts/2024/dikmen_24.pdf) |
 |    ‎        |                | |
-| 10:30 11:00 |  Madeline Ladore | Plural Semantics in Akan: An Experimental Investigation |
+| 10:30 11:00 |  Madeline Ladore | [Plural Semantics in Akan: An Experimental Investigation](http://scol.bogazici.edu.tr/abstracts/2024/ladore_24.pdf) |
 |    ‎        |          |      |
 | 11:00 11:30 | Baran Günay | Wh-exclamatives in Turkish: “Ne içtik be!” | 
 |    ‎        |          |      |
@@ -125,7 +125,7 @@ Vision-Language Pre-Training in NLP, Lucas Akkersdijk, Linnea Cresta
 
 [A Cross-Linguistic Corpus-Assisted Discourse Study of COVID-19 Vaccine News](http://scol.bogazici.edu.tr/abstracts/2024/ergun_24.pdf), Ahmet Ergün
 
-Complexity of Telicity Marking in TİD, Aysemin Yaşar, Kadir Gökgöz, Bahadır Kisbet
+[Complexity of Telicity Marking in TİD](http://scol.bogazici.edu.tr/abstracts/2024/yasar-gokgoz-kisbet_24.pdf), Aysemin Yaşar, Kadir Gökgöz, Bahadır Kisbet
 
 Unraveling Pointing in Turkish Sign Language (TİD), Ece Eroğlu, Karahan Şahin, Kadir Gökgöz
 
