@@ -74,7 +74,7 @@ Revisiting Turkish Reflexive Verbs, Zeynep Erdemir
 
 [Counting events in Turkish](http://scol.bogazici.edu.tr/abstracts/2024/ugurlu_24.pdf), Ömer Çağrı Uğurlu
 
-A Survey of Vowel Deletion in Turkish, Alize Aydın
+[A Survey of Vowel Deletion in Turkish](http://scol.bogazici.edu.tr/abstracts/2024/aydin_24.pdf), Alize Aydın
 </details>
 </details>
 
@@ -127,7 +127,7 @@ Vision-Language Pre-Training in NLP, Lucas Akkersdijk, Linnea Cresta
 
 [Complexity of Telicity Marking in TİD](http://scol.bogazici.edu.tr/abstracts/2024/yasar-gokgoz-kisbet_24.pdf), Aysemin Yaşar, Kadir Gökgöz, Bahadır Kisbet
 
-Unraveling Pointing in Turkish Sign Language (TİD), Ece Eroğlu, Karahan Şahin, Kadir Gökgöz
+[Unraveling Pointing in Turkish Sign Language (TİD)](http://scol.bogazici.edu.tr/abstracts/2024/eroglu-sahin-gokgoz_24.pdf), Ece Eroğlu, Karahan Şahin, Kadir Gökgöz
 
 Deep Learning for Out-of-Domain Detection without In-Domain Labels, Isabelle Dubois
 
