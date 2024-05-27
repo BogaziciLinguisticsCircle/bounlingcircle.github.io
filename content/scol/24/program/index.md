@@ -44,7 +44,7 @@ description: program for scol24
 |    ‎        |                | |
 | 16:30 16:45 |  **Coffee Break** | |
 |    ‎        |                | |
-| 16:45 17:15 | Ezgi Yıldız & Berna A. Uzundağ| Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
+| 16:45 17:15 | Ezgi Yıldız & Berna A. Uzundağ | Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
 |    ‎        |          |      |
 | 17:15 17:45 | Samira Hamzehei | [Onset Cluster Adaptation in Persian](http://scol.bogazici.edu.tr/abstracts/2024/hamzehei_24.pdf) | 
 |    ‎        |          |      |
@@ -68,7 +68,7 @@ Processing Post-verbal Quantifiers in Turkish, Baran Günay, Nagihan Lüle
 
 [Are randoms truly random?: Analyzing Linguistic Features of Keysmashes](http://scol.bogazici.edu.tr/abstracts/2024/aydin-ariman-erdemir_24.pdf), Mehmet Eren Aydın, Zeynep Arıman, Zeynep Erdemir
 
-Revisiting Turkish Reflexive Verbs, Zeynep Erdemir
+[Revisiting Turkish Reflexive Verbs](http://scol.bogazici.edu.tr/abstracts/2024/erdemir_24.pdf), Zeynep Erdemir
 
 [VowSpace: A Vowel Formant Analysis Application](http://scol.bogazici.edu.tr/abstracts/2024/kaya_24.pdf), Ali Çağan Kaya
 
@@ -133,7 +133,7 @@ Deep Learning for Out-of-Domain Detection without In-Domain Labels, Isabelle Dub
 
 Expressing Emotions Across Postpositional Constructions in Turkish: A Corpus-Based Approach, Deniz Ay, Fırat Başbuğ
 
-An Investigation of Subject Attachment in Adjunct Clauses in Turkish, Ege Aydaş
+[An Investigation of Subject Attachment in Adjunct Clauses in Turkish](http://scol.bogazici.edu.tr/abstracts/2024/aydas-deniz_24.pdf), Ege Aydaş, Nazik Dinçtopal Deniz
 
 [Word Frequency Is a Cue to Word Order for Adults: Validating an Online Method with Speakers of Italian and Turkish for More Inclusive Psycholinguistic Testing](http://scol.bogazici.edu.tr/abstracts/2024/aydin-gervain_24.pdf), Zeynep Aydın, Judit Gervain 
 
