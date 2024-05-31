@@ -43,10 +43,8 @@ description: program for scol24
 | 16:00 16:30 | Mehmet Can Dadan & Uğur Erken & Stefano Canalis | [/e/ Lowering in the Turkish Negative Aorist](http://scol.bogazici.edu.tr/abstracts/2024/dadan-erken-canalis_24.pdf)  | 
 |    ‎        |                | |
 | 16:30 16:45 |  **Coffee Break** | |
-|    ‎        |                | |
-| 16:45 17:15 | Ezgi Yıldız & Berna A. Uzundağ | Screen Time and Language Outcomes in Infancy: Assessing the Role of Background | 
 |    ‎        |          |      |
-| 17:15 17:45 | Samira Hamzehei | [Onset Cluster Adaptation in Persian](http://scol.bogazici.edu.tr/abstracts/2024/hamzehei_24.pdf) | 
+| 16:45 17:15 | Samira Hamzehei | [Onset Cluster Adaptation in Persian](http://scol.bogazici.edu.tr/abstracts/2024/hamzehei_24.pdf) | 
 |    ‎        |          |      |
 
 <details>
@@ -62,13 +60,9 @@ description: program for scol24
 
 [Turkish Object Gaps: A Comparative Analysis of Verb-stranding Verb Phrase Ellipsis and Argument Ellipsis](http://scol.bogazici.edu.tr/abstracts/2024/fincan_24.pdf), Yasemin Fincan
 
-Processing Post-verbal Quantifiers in Turkish, Baran Günay, Nagihan Lüle
-
 [Discursive construction of hegemonic power through political interviews: The case of Turkish presidential discourse](http://scol.bogazici.edu.tr/abstracts/2024/ecevit-erduyan_24.pdf), Selman Ecevit, Işıl Erduyan
 
 [Are randoms truly random?: Analyzing Linguistic Features of Keysmashes](http://scol.bogazici.edu.tr/abstracts/2024/aydin-ariman-erdemir_24.pdf), Mehmet Eren Aydın, Zeynep Arıman, Zeynep Erdemir
-
-[Revisiting Turkish Reflexive Verbs](http://scol.bogazici.edu.tr/abstracts/2024/erdemir_24.pdf), Zeynep Erdemir
 
 [VowSpace: A Vowel Formant Analysis Application](http://scol.bogazici.edu.tr/abstracts/2024/kaya_24.pdf), Ali Çağan Kaya
 
@@ -105,13 +99,9 @@ Processing Post-verbal Quantifiers in Turkish, Baran Günay, Nagihan Lüle
 |    ‎        |                | |
 | 15:30 16:00 | Rüveyda Şahyar | [Modeling Morphological Learning: Tolerance Principle on Turkish past tense -DI](http://scol.bogazici.edu.tr/abstracts/2024/sahyar_24.pdf) | 
 |    ‎        |                | |
-| 16:00 16:30 | Asia Klimova | Artificial Grammar Learning: Preliminary Study  | 
-|    ‎        |                | |
-| 16:30 16:45 |  **Coffee Break** | |
-|    ‎        |                | |
-| 16:45 17:15 | Engin Anıl Yolcu | [A Critical Discourse Analysis of the Posts on Street Dogs in an Online Student Community](http://scol.bogazici.edu.tr/abstracts/2024/yolcu_24.pdf) | 
+| 16:00 16:30 | Engin Anıl Yolcu | [A Critical Discourse Analysis of the Posts on Street Dogs in an Online Student Community](http://scol.bogazici.edu.tr/abstracts/2024/yolcu_24.pdf) | 
 |    ‎        |          |      |
-| 17:15 17:45 | Nisan Ece Gümüş | [A Sociopragmatic Study on Turkish Native Speakers’ Condolence Speech Acts](http://scol.bogazici.edu.tr/abstracts/2024/gumus_24.pdf) | 
+| 16:30 17:00 | Nisan Ece Gümüş | [A Sociopragmatic Study on Turkish Native Speakers’ Condolence Speech Acts](http://scol.bogazici.edu.tr/abstracts/2024/gumus_24.pdf) | 
 |    ‎        |          |      |
 
 <details>
@@ -119,17 +109,17 @@ Processing Post-verbal Quantifiers in Turkish, Baran Günay, Nagihan Lüle
 
 [Decoding Human-AI Interaction: A Discourse-Historical Analysis Approach of ChatGPT's Representation on Social Media](http://scol.bogazici.edu.tr/abstracts/2024/bcoskun_24.pdf), Zeynep Beste Coşkun
 
-Vision-Language Pre-Training in NLP, Lucas Akkersdijk, Linnea Cresta
-
 [A Psycholinguistic Study of Slovenian Taboo Words: What Makes Taboo Word a Taboo?](http://scol.bogazici.edu.tr/abstracts/2024/kos-manouilidou_24.pdf), Julija Kos, Christina Manouilidou
 
 [A Cross-Linguistic Corpus-Assisted Discourse Study of COVID-19 Vaccine News](http://scol.bogazici.edu.tr/abstracts/2024/ergun_24.pdf), Ahmet Ergün
 
+Processing Post-verbal Quantifiers in Turkish, Baran Günay, Nagihan Lüle
+
+[Revisiting Turkish Reflexive Verbs](http://scol.bogazici.edu.tr/abstracts/2024/erdemir_24.pdf), Zeynep Erdemir
+
 [Complexity of Telicity Marking in TİD](http://scol.bogazici.edu.tr/abstracts/2024/yasar-gokgoz-kisbet_24.pdf), Aysemin Yaşar, Kadir Gökgöz, Bahadır Kisbet
 
 [Unraveling Pointing in Turkish Sign Language (TİD)](http://scol.bogazici.edu.tr/abstracts/2024/eroglu-sahin-gokgoz_24.pdf), Ece Eroğlu, Karahan Şahin, Kadir Gökgöz
-
-Deep Learning for Out-of-Domain Detection without In-Domain Labels, Isabelle Dubois
 
 Expressing Emotions Across Postpositional Constructions in Turkish: A Corpus-Based Approach, Deniz Ay, Fırat Başbuğ
 
