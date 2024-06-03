@@ -16,11 +16,7 @@ The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliate
 
 **Thank you very much for your interest in SCOL 2024.** 
 
-**Results for abstract submissions have been announced!**
-Please contact us if you have not received your results.
-
-**Registrations are now open!** 
-Everyone, including presenters, should register [here](https://register.oxfordabstracts.com/event/10579). 
+You can access video recordings of our conference [here](https://www.youtube.com/playlist?list=PLVMZNvfQoNzQa-ZogdNEfA1L4N70Vzz-c). 
 
 
 For previous instances of SCOL and other informal talks, please check out our [previous events page][previous].
