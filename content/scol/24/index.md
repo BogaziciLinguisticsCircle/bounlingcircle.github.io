@@ -6,18 +6,20 @@ isIndex: true
 
 ---
 
-**[SCOL'24][scol24] ‎ ‎ ‎ | ‎ ‎ ‎ [Poster][flyer] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
+**[SCOL'24][scol24] ‎ ‎ ‎ | ‎ ‎ ‎ [Poster][flyer] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | 
+‎ ‎ ‎ [Program][prog]**
 
 ---
 
 # Student Conference on Linguistics 2024 (SCOL'24)
 
-Welcome! The 6th annual SCOL (formerly known as BUSCTEL) will take place May 31 - June 1, 2024 at Boğaziçi University. 
+Welcome! The 6th annual SCOL (formerly known as BUSCTEL) has taken place May 31 - June 1, 2024 at Boğaziçi University. 
 
-Results for abstract submissions have been announced. Please [contact us][mail] if you have not received your results.
 
-**Registrations are now open!**
-Everyone, including presenters, should register [here](https://register.oxfordabstracts.com/event/10579). 
+**Thank you very much for your interest in SCOL 2024!**
+
+You can access video recordings of our conference [here](https://www.youtube.com/playlist?list=PLVMZNvfQoNzQa-ZogdNEfA1L4N70Vzz-c). 
+
 
 **Keynote speakers:** 
 

@@ -5,7 +5,8 @@ description: cfp for scol24
 
 ---
 
-**[SCOL'24][scol24] ‎ ‎ ‎ | ‎ ‎ ‎ [Poster][flyer] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
+**[SCOL'24][scol24] ‎ ‎ ‎ | ‎ ‎ ‎ [Poster][flyer] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | 
+‎ ‎ ‎ [Program][prog]**
 
 ---
 
@@ -56,9 +57,9 @@ All graduate and undergraduate students are welcome to submit an abstract via ou
 
 ~~**Submission deadline:** February 1, 2024~~
 
-**Notification for acceptance:** March 10, 2024
+~~**Notification for acceptance:** March 10, 2024~~
 
-**Conference dates:** May 31 - June 1, 2024
+~~**Conference dates:** May 31 - June 1, 2024~~
 
 <br />
 
