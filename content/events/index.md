@@ -5,9 +5,10 @@ date: null
 ---
 
 ## Upcoming Events
-- [**May 31 - June 1, 2024, SCOL**](/scol/24)
+- [SCOL 2025](/scol/25)
 
 ## Previous Events 
+- [SCOL 2024](/scol/24)
 - [SCOL 2023](/scol/23)
 - [SCOL 2022](/scol/22)
 - [BUSCTEL 2020](/events/busctel20)
