@@ -3,7 +3,9 @@
 	<NuxtLink to="/">Home</NuxtLink>
 	<NuxtLink to="/events">Events</NuxtLink>
 	<!-- Uncomment this after finishing the pages -->
-	<NuxtLink to="/scol/24">SCOL24</NuxtLink>
+	<NuxtLink to="/scol/25">SCOL25</NuxtLink>
+	<!-- Uncomment this after finishing the pages -->
+	<!-- <NuxtLink to="/scol/24">SCOL24</NuxtLink> -->
 	<!-- Comment the one after this line -->
 	<!-- <NuxtLink to="/scol/22">SCOL22</NuxtLink> -->
 </div>

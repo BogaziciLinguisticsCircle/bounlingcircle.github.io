@@ -5,13 +5,14 @@ description: transportation for scol24
 
 ---
 
-**[SCOL'24][scol24] ‎ ‎ ‎ | ‎ ‎ ‎ [Poster][flyer] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
+**[SCOL'25][scol25] ‎ ‎ ‎ | ‎ ‎ ‎ [Call For Papers][cfp] ‎ ‎ ‎ | ‎ ‎ ‎ [Program][prog] ‎ ‎ ‎ | ‎ ‎ ‎ [Registration][reg] ‎ ‎ ‎ | ‎ ‎ ‎ [Transportation][tp]**
 
 ---
 
 # Transportation
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6014.7167993980265!2d29.05001967608898!3d41.08301527134012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab603c497fb7d%3A0x67b8c8b204a4e43d!2sAlbert%20Long%20Hall!5e0!3m2!1sen!2sus!4v1728378174440!5m2!1sen!2sus" width="400" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 
 ---
 
@@ -46,9 +47,12 @@ Buses
 
 ---
 
-[tp]: /scol/24/transportation
-[reg]: /scol/24/registration
-[scol24]: /scol/24
-[cfp]: /scol/24/callforpapers
-[prog]: /scol/24/program
-[flyer]: http://scol.bogazici.edu.tr/SCOL24Flyer.png
+
+[tp]: /scol/25/transportation
+[reg]: /scol/25/registration
+[scol25]: /scol/25
+[cfp]: /scol/25/callforpapers
+[prog]: /scol/25/program
+[mail]: mailto:scol@bogazici.edu.tr
+
+
