@@ -14,16 +14,23 @@ The **Bogazici Linguistics Circle (BLC)** is a student-run association affiliate
 
 <br />
 
-**Thank you very much for your interest in SCOL 2024.** 
+**We are currently accepting submissions for SCOL 2025!** 
 
-You can access video recordings of our conference [here](https://www.youtube.com/playlist?list=PLVMZNvfQoNzQa-ZogdNEfA1L4N70Vzz-c). 
+SCOL 2025 will be held May 6-7, 2025, at Albert Long Hall, Boğaziçi University South Campus. 
+
+Please refer to our [call for papers][cfp] page for more details.
 
 
-
-For previous instances of SCOL, please check out our [previous events page][previous].
+For previous instances of SCOL, please check out our [previous events page][previous]. You can access video recordings of our conference [here](https://www.youtube.com/playlist?list=PLVMZNvfQoNzQa-ZogdNEfA1L4N70Vzz-c). 
 
 You can find us on social media through our [socials link](https://linkin.bio/scolboun). 
 
 [scol_recent]: /scol/25/
 [previous]: /events/
 [mail]: mailto:scol@bogazici.edu.tr
+[tp]: /scol/25/transportation
+[reg]: /scol/25/registration
+[scol25]: /scol/25
+[cfp]: /scol/25/callforpapers
+[prog]: /scol/25/program
+
