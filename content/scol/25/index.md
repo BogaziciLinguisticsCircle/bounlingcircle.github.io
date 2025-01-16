@@ -14,7 +14,11 @@ isIndex: true
 
 Welcome! The 7th annual SCOL (formerly known as BUSCTEL) will take place this spring at Boğaziçi University. 
 
-Stay tuned for our call for papers! 
+**We are currently accepting submissions for SCOL 2025!** 
+
+SCOL 2025 will be held May 6-7, 2025, at Albert Long Hall, Boğaziçi University South Campus. 
+
+Please refer to our [call for papers][cfp] page for more details.
 
 **Keynote speakers:** 
 
