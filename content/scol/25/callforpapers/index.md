@@ -14,6 +14,8 @@ description: cfp for scol24
 
 **We are now accepting submissions!**
 
+**Submission deadline:** February 17, 2025
+
 We are pleased to announce the 7th annual edition of Boğaziçi University Student Conference on Linguistics (SCOL)! Formerly known as BUSCTEL, Boğaziçi SCOL aims to gather students of Linguistics from all over the world at a conference in Istanbul. Since 2018, each year we enrich our catalogue of research projects, provide a good experience for our attendees, and house more and more guests from around the world.
 
 SCOL invites abstracts in any area of linguistic research, including but not limited to syntax, morphology, semantics, pragmatics, sociolinguistics, phonology, phonetics, typology, computational syntax/semantics and all relevant interfaces and related fields in cognitive/social sciences. If you are an aspiring linguist or interested in the aforementioned fields, submit an abstract to tell us about your research and findings in Istanbul. 
@@ -23,8 +25,6 @@ The official language of the conference is English. Submissions are open for 30-
 SCOL does not charge any speakers for a talk or poster session. All graduate and undergraduate students are welcome and encouraged to submit an abstract via our [Oxford Abstracts platform](https://app.oxfordabstracts.com/stages/77582/submitter)
 
 **Abstract guidelines:**
-
-*Submissions that fail to comply with any of the following guidelines will be automatically rejected.*
 
 *Submissions that fail to comply with any of the following guidelines will be automatically rejected.*
 
